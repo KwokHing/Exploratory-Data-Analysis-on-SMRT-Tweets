@@ -4503,7 +4503,7 @@ breakStn_df.groupby('Line').agg({'Stn':'count'}).reset_index().sort_values(['Stn
 
 
 
-## Plotting the location of each train station on the map with their service disruption occurances
+## Plotting the service disruption occurances of each train station on the map
 
 ```python
 import folium
