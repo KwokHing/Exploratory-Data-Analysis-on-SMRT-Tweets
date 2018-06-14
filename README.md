@@ -379,19 +379,7 @@ df.head(10)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -538,19 +526,7 @@ df.head(10)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -682,19 +658,7 @@ df.head(10)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1309,236 +1273,6 @@ for index in range(len(df)):
     From Station                 : TanahMerah
     To Station                   : PasirRis
 
-    List index position          : 136
-    Disruption Cleared Time      : 2017-08-29 21:28:00
-    1st Disruption Reported Time : 2017-08-29 17:13:00
-    Disruption Duration (minutes): 255.00000000000003
-    From Station                 : JurongEast
-    To Station                   : Redhill
-
-    List index position          : 141
-    Disruption Cleared Time      : 2017-07-24 22:58:00
-    1st Disruption Reported Time : 2017-07-24 22:58:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 142
-    Disruption Cleared Time      : 2017-07-24 21:08:00
-    1st Disruption Reported Time : 2017-07-24 21:08:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 143
-    Disruption Cleared Time      : 2017-07-24 20:59:00
-    1st Disruption Reported Time : 2017-07-24 20:15:00
-    Disruption Duration (minutes): 44.0
-    From Station                 : Queenstown
-    To Station                   : Bugis
-
-    List index position          : 146
-    Disruption Cleared Time      : 2017-07-24 20:06:00
-    1st Disruption Reported Time : 2017-07-24 17:51:00
-    Disruption Duration (minutes): 135.00000000000003
-    From Station                 : JooKoon
-    To Station                   : Commonwealth
-
-    List index position          : 150
-    Disruption Cleared Time      : 2017-07-21 02:45:00
-    1st Disruption Reported Time : 2017-07-21 02:34:00
-    Disruption Duration (minutes): 11.0
-    From Station                 : Clementi
-    To Station                   : TanjongPagar
-
-    List index position          : 152
-    Disruption Cleared Time      : 2017-07-12 09:20:00
-    1st Disruption Reported Time : 2017-07-12 09:20:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 153
-    Disruption Cleared Time      : 2017-07-11 19:58:00
-    1st Disruption Reported Time : 2017-07-11 17:41:00
-    Disruption Duration (minutes): 137.0
-    From Station                 : JooKoon
-    To Station                   : Clementi
-
-    List index position          : 158
-    Disruption Cleared Time      : 2017-07-10 05:31:00
-    1st Disruption Reported Time : 2017-07-10 03:46:00
-    Disruption Duration (minutes): 105.0
-    From Station                 : Queenstown
-    To Station                   : Bugis
-
-    List index position          : 165
-    Disruption Cleared Time      : 2017-07-05 04:29:00
-    1st Disruption Reported Time : 2017-07-05 04:02:00
-    Disruption Duration (minutes): 27.0
-    From Station                 : JurongEast
-    To Station                   : JooKoon
-
-    List index position          : 168
-    Disruption Cleared Time      : 2017-06-28 02:56:00
-    1st Disruption Reported Time : 2017-06-28 02:52:00
-    Disruption Duration (minutes): 4.000000000000001
-    From Station                 : JKN
-    To Station                   : TLK
-
-    List index position          : 170
-    Disruption Cleared Time      : 2017-06-28 02:47:00
-    1st Disruption Reported Time : 2017-06-28 02:22:00
-    Disruption Duration (minutes): 25.0
-    From Station                 : TLK
-    To Station                   : JKN
-
-    List index position          : 172
-    Disruption Cleared Time      : 2017-06-13 21:55:00
-    1st Disruption Reported Time : 2017-06-13 17:13:00
-    Disruption Duration (minutes): 282.0
-    From Station                 : CityHall
-    To Station                   : Dover
-
-    List index position          : 187
-    Disruption Cleared Time      : 2017-04-17 19:58:00
-    1st Disruption Reported Time : 2017-04-17 17:35:00
-    Disruption Duration (minutes): 143.0
-    From Station                 : PayaLebar
-    To Station                   : Simei
-
-    List index position          : 196
-    Disruption Cleared Time      : 2017-04-10 17:21:00
-    1st Disruption Reported Time : 2017-04-10 17:21:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 197
-    Disruption Cleared Time      : 2017-04-10 17:08:00
-    1st Disruption Reported Time : 2017-04-10 16:44:00
-    Disruption Duration (minutes): 24.0
-    From Station                 : JooKoon
-    To Station                   : Queenstown
-
-    List index position          : 200
-    Disruption Cleared Time      : 2017-04-09 19:35:00
-    1st Disruption Reported Time : 2017-04-09 18:31:00
-    Disruption Duration (minutes): 64.00000000000001
-    From Station                 : Bugis
-    To Station                   : TanahMerah
-
-    List index position          : 205
-    Disruption Cleared Time      : 2017-03-30 04:15:00
-    1st Disruption Reported Time : 2017-03-30 04:15:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 206
-    Disruption Cleared Time      : 2017-03-30 03:54:00
-    1st Disruption Reported Time : 2017-03-30 02:57:00
-    Disruption Duration (minutes): 57.0
-    From Station                 : PasirRis
-    To Station                   : PayaLebar
-
-    List index position          : 211
-    Disruption Cleared Time      : 2017-03-14 21:07:00
-    1st Disruption Reported Time : 2017-03-14 21:07:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 212
-    Disruption Cleared Time      : 2017-03-14 20:55:00
-    1st Disruption Reported Time : 2017-03-14 20:28:00
-    Disruption Duration (minutes): 27.0
-    From Station                 : PasirRis
-    To Station                   : TanahMerah
-
-    List index position          : 214
-    Disruption Cleared Time      : 2017-02-22 17:02:00
-    1st Disruption Reported Time : 2017-02-22 17:02:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 215
-    Disruption Cleared Time      : 2017-02-22 16:36:00
-    1st Disruption Reported Time : 2017-02-22 16:28:00
-    Disruption Duration (minutes): 8.000000000000002
-    From Station                 : JooKoon
-    To Station                   : Lakeside
-
-    List index position          : 217
-    Disruption Cleared Time      : 2017-02-11 20:06:00
-    1st Disruption Reported Time : 2017-02-11 15:38:00
-    Disruption Duration (minutes): 268.00000000000006
-    From Station                 : BoonLay
-    To Station                   : JooKoon
-
-    List index position          : 219
-    Disruption Cleared Time      : 2017-02-11 15:37:00
-    1st Disruption Reported Time : 2017-02-11 15:28:00
-    Disruption Duration (minutes): 9.0
-    From Station                 : BoonLay
-    To Station                   : JooKoon
-
-    List index position          : 221
-    Disruption Cleared Time      : 2017-02-11 15:05:00
-    1st Disruption Reported Time : 2017-02-11 13:58:00
-    Disruption Duration (minutes): 67.00000000000001
-    From Station                 : JooKoon
-    To Station                   : BoonLay
-
-    List index position          : 225
-    Disruption Cleared Time      : 2017-02-06 17:11:00
-    1st Disruption Reported Time : 2017-02-06 16:12:00
-    Disruption Duration (minutes): 59.0
-    From Station                 : JurongEast
-    To Station                   : JooKoon
-
-    List index position          : 232
-    Disruption Cleared Time      : 2017-01-23 06:17:00
-    1st Disruption Reported Time : 2017-01-23 02:34:00
-    Disruption Duration (minutes): 223.0
-    From Station                 : JooKoon
-    To Station                   : Clementi
-
-    List index position          : 245
-    Disruption Cleared Time      : 2017-01-18 17:50:00
-    1st Disruption Reported Time : 2017-01-18 17:50:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
-
-    List index position          : 246
-    Disruption Cleared Time      : 2017-01-18 17:27:00
-    1st Disruption Reported Time : 2017-01-18 15:46:00
-    Disruption Duration (minutes): 101.0
-    From Station                 : JooKoon
-    To Station                   : Clementi
-
-    List index position          : 253
-    Disruption Cleared Time      : 2017-01-03 16:38:00
-    1st Disruption Reported Time : 2017-01-03 15:47:00
-    Disruption Duration (minutes): 51.0
-    From Station                 : BoonLay
-    To Station                   : Clementi
-
-    List index position          : 256
-    Disruption Cleared Time      : 2016-12-22 17:57:00
-    1st Disruption Reported Time : 2016-12-22 15:14:00
-    Disruption Duration (minutes): 163.0
-    From Station                 : TanahMerah
-    To Station                   : Eunos
-
-    List index position          : 261
-    Disruption Cleared Time      : 2016-12-22 14:05:00
-    1st Disruption Reported Time : 2016-12-22 14:05:00
-    Disruption Duration (minutes): 0.0
-    From Station                 : None
-    To Station                   : None
 
 
 
@@ -1557,19 +1291,7 @@ df.head(70)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2480,19 +2202,7 @@ df.head()
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2639,19 +2349,7 @@ df2.head(10)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2841,19 +2539,7 @@ df2.head(10)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
 
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3230,23 +2916,6 @@ ax.set_xticklabels([mths[i] for i in range(12)])
 
 
 
-
-    [<matplotlib.text.Text at 0x12b9659e8>,
-     <matplotlib.text.Text at 0x12bba7400>,
-     <matplotlib.text.Text at 0x12bc1b780>,
-     <matplotlib.text.Text at 0x12bc21278>,
-     <matplotlib.text.Text at 0x12bc21d30>,
-     <matplotlib.text.Text at 0x12bc28828>,
-     <matplotlib.text.Text at 0x12bc30048>,
-     <matplotlib.text.Text at 0x12bc30b00>,
-     <matplotlib.text.Text at 0x12bc30d30>,
-     <matplotlib.text.Text at 0x12bbd2438>,
-     <matplotlib.text.Text at 0x12bb8b3c8>,
-     <matplotlib.text.Text at 0x12baade80>]
-
-
-
-
 ![png](images/output_33_1.png)
 
 
@@ -3263,16 +2932,6 @@ ax.set_xlabel("Day")
 ax.set_xticklabels([days[i] for i in range(7)])
 ```
 
-
-
-
-    [<matplotlib.text.Text at 0x12bd30f60>,
-     <matplotlib.text.Text at 0x12bd361d0>,
-     <matplotlib.text.Text at 0x12bd94ac8>,
-     <matplotlib.text.Text at 0x12bd9a5c0>,
-     <matplotlib.text.Text at 0x12bda00b8>,
-     <matplotlib.text.Text at 0x12bda0b70>,
-     <matplotlib.text.Text at 0x12bda7668>]
 
 
 
