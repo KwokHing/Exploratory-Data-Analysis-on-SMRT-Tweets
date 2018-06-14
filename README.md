@@ -11,7 +11,7 @@ This demo will provide a brief introduction in performing a rudimentary analysis
 There are two primary methods of extracting data from the SMRT tweets (twitter website). The first method was to use the provided twitter API for getting SMRT tweets, while the second method was to scrap information out from the HTML codes on the official SMRT twitter website (https://twitter.com/smrt_singapore). Due to a limitation on the number of tweets the twitter's API could be pulled and an expected substantial number of SMRT tweets involved (approximately 4000 tweets), the latter method was employed to overcome twitter API's rate limitation 
 
 
-## Extraction of SMRT Tweets
+## Extraction of SMRT Tweets using Selenium Web Driver
 
 ```python
 import time
@@ -2110,11 +2110,7 @@ df.head(70)
 
 
 
-```python
-### Save the mrt tweet with status 'cleared' or 'update' to csv file
-
-df.to_csv("smrt_tweet_status_extract.csv")
-```
+## Checking for outliers
 
 
 ```python
@@ -2290,7 +2286,7 @@ df.head()
 </div>
 
 
-
+## EDA on average service disruption (mins)
 
 ```python
 ### Compute the average disruption duration
