@@ -1,0 +1,611 @@
+,Tweet,Extracted Date/Time,Date/Time,MRT_Line,Status,From_Stn,To_Stn,Duration,New_Fr_Stn,New_To_Stn
+0,[BPLRT] Fault cleared. Normal train services across BPLRT gradually being restored.  Free regular bus services and bridging bus services available until 1700hrs.,12:54 AM - 18 Jan 2018,2018-01-18 00:54:00,BPLRT,cleared,,,42.0,ChoaChuKang,Phoenix
+1,[BPLRT]: No train service between #ChoaChuKang and #Phoenix due to a train fault.  Free bridging bus services available across BPLRT.  Free regular bus services available at affected stations.,12:12 AM - 18 Jan 2018,2018-01-18 00:12:00,BPLRT,update,ChoaChuKang,Phoenix,0,None,None
+2,[BPLRT] CLEARED: Free regular and bridging bus services have ended.,3:09 AM - 12 Jan 2018,2018-01-12 03:09:00,BPLRT,cleared,,,0.0,,
+3,[BPLRT] UPDATE: Train services on the entire BPLRT have resumed. Free regular and bridging bus services are still available.,2:30 AM - 12 Jan 2018,2018-01-12 02:30:00,BPLRT,cleared,,,0.0,,
+4,[BPLRT] UPDATE: Service B on the BPLRT inner loop between #BukitPanjang (BP6) and #Senja (BP13) has resumed. Free regular and bridging bus services are still available.pic.twitter.com/e7C9GSpGx8,2:04 AM - 12 Jan 2018,2018-01-12 02:04:00,BPLRT,cleared,,,0.0,,
+5,[BPLRT] CLEARED: Free bus and bridging bus services have ended. We apologise for the inconvenience caused.,1:45 AM - 9 Sep 2017,2017-09-09 01:45:00,BPLRT,cleared,,,0.0,,
+6,[BPLRT] CLEARED: Normal service on the BPLRT has resumed.,1:25 AM - 9 Sep 2017,2017-09-09 01:25:00,BPLRT,cleared,,,0.0,,
+7,"[BPLRT]
+CLEARED: Train services on the Service B are running normally now.",11:56 PM - 11 Aug 2017,2017-08-11 23:56:00,BPLRT,cleared,,,0.0,,
+8,"[BPLRT]
+CLEARED: Train services on the Service A are running normally now",2:15 AM - 27 Jul 2017,2017-07-27 02:15:00,BPLRT,cleared,,,10.0,Senja,Jelapang
+9,"[BPLRT]
+UPDATE: Train fault between #Senja and #Jelapang at Service A. 
+Service B is still running.",2:05 AM - 27 Jul 2017,2017-07-27 02:05:00,BPLRT,update,Senja,Jelapang,0,None,None
+10,[BPLRT] CLEARED: Normal service resumed. Free bus services still available till1425hrs.,11:03 PM - 19 Jul 2017,2017-07-19 23:03:00,BPLRT,cleared,,,0.0,,
+11,[BPLRT] CLEARED: Train service between #ChoaChuKang and #BukitPanjang are now running normally.,10:58 PM - 19 Jul 2017,2017-07-19 22:58:00,BPLRT,cleared,,,13.0,ChoaChuKang,BukitPanjang
+12,[BPLRT] No train service betwn #ChoaChuKang to #BukitPanjang due to a train fault. Free regular bus & bus bridging services are available.,10:45 PM - 19 Jul 2017,2017-07-19 22:45:00,BPLRT,update,ChoaChuKang,BukitPanjang,0,None,None
+13,[BPLRT] Update: Train services have resumed. Bus bridging services have ceased.,7:02 AM - 28 Mar 2017,2017-03-28 07:02:00,BPLRT,cleared,,,0.0,,
+14,[BPLRT] Update: Train services have resumed. Bus bridging services are still available.,6:28 AM - 28 Mar 2017,2017-03-28 06:28:00,BPLRT,cleared,,,0.0,,
+15,[BPLRT CLEARED] Free Regular and Shuttle Bus Services have ceased.,12:12 AM - 10 Feb 2017,2017-02-10 00:12:00,BPLRT,cleared,,,0.0,,
+16,[BPLRT Update] Normal Train Services have resumed. Free Regular and Shuttle Bus Services are still available along BPLRT,11:43 PM - 9 Feb 2017,2017-02-09 23:43:00,BPLRT,cleared,,,0.0,,
+17,[BPLRT] UPDATE: Train services have resumed. Free regular bus services and bus bridging services have ceased.,4:37 AM - 26 Oct 2016,2016-10-26 04:37:00,BPLRT,cleared,,,0.0,,
+18,[BPLRT] UPDATE: Train services have resumed. Free regular bus svcs and bus bridging services are still available at all BPLRT stations.,4:32 AM - 26 Oct 2016,2016-10-26 04:32:00,BPLRT,cleared,,,0.0,,
+19,[BPLRT] UPDATE: Train services have resumed. Free regular bus svcs are still available at all BPLRT stations.,4:12 AM - 26 Oct 2016,2016-10-26 04:12:00,BPLRT,cleared,,,81.0,BukitPanjang,Phoenix
+20,[BPLRT] Due to a train fault between #BukitPanjang & #Phoenix. BPLRT train svc will be delayed for 30 mins. We are working to recover svc.,2:51 AM - 26 Oct 2016,2016-10-26 02:51:00,BPLRT,update,BukitPanjang,Phoenix,0,None,None
+21,"[BPLRT] Service A and Service B are now running. Stations opened their gates at 5am, the normal start time for BPLRT operations.",2:20 PM - 28 Sep 2016,2016-09-28 14:20:00,BPLRT,cleared,,,0.0,,
+22,[BPLRT]Svcs on the inner loop (anticlockwise dir) from #BukitPanjang towards #Senja has resumed. Free bus & shuttle services are still availpic.twitter.com/HkcBJFOy4y,12:36 AM - 28 Sep 2016,2016-09-28 00:36:00,BPLRT,cleared,,,0.0,,
+23,[BPLRT] Svcs on the inner loop (anticlockwise dir) from #BukitPanjang towards #Senja has resumed. Free bus and shuttle services are avail.pic.twitter.com/ajGaGv7Iim,10:53 PM - 27 Sep 2016,2016-09-27 22:53:00,BPLRT,cleared,,,177.0,ChoaChuKang,BukitPanjang
+24,"[BPLRT] No train service btwn #ChoaChuKang and #BukitPanjang in
+both directions. Free regular bus & bridging bus services are available.",8:25 PM - 27 Sep 2016,2016-09-27 20:25:00,BPLRT,update,ChoaChuKang,BukitPanjang,0,None,None
+25,"[BPLRT] No train service between #ChoaChuKang and #BukitPanjang in
+both directions. Free regular bus & bridging bus services are available.",7:56 PM - 27 Sep 2016,2016-09-27 19:56:00,BPLRT,update,ChoaChuKang,BukitPanjang,0,None,None
+26,[BPLRT Update] Free regular bus & free bridging bus services have ceased. BPLRT Service is available.,6:52 PM - 27 Sep 2016,2016-09-27 18:52:00,BPLRT,cleared,,,0.0,,
+27,[BPLRT] CLEARED: Free regular bus & free bridging bus services have ceased.,9:42 AM - 27 Sep 2016,2016-09-27 09:42:00,BPLRT,cleared,,,0.0,,
+28,"[BPLRT] CLEARED: Train service between #ChoaChuKang and
+#BukitPanjang are now running normally.",9:27 AM - 27 Sep 2016,2016-09-27 09:27:00,BPLRT,cleared,,,92.0,ChoaChuKang,BukitPanjang
+29,"[BPLRT] No train service between #ChoaChuKang and #BukitPanjang in
+both directions due to a power fault.",7:55 AM - 27 Sep 2016,2016-09-27 07:55:00,BPLRT,update,ChoaChuKang,BukitPanjang,0,None,None
+30,[BPLRT] Free shuttle bus services have ceased.,7:16 AM - 25 Apr 2016,2016-04-25 07:16:00,BPLRT,cleared,,,0.0,,
+31,[BPLRT] Train services have resumed on BPLRT. Expect crowds at stations. Free shuttle bus services are still available.,7:12 AM - 25 Apr 2016,2016-04-25 07:12:00,BPLRT,cleared,,,0.0,,
+32,[BPLRT] Train services have resumed on the BPLRT. Free shuttle bus services are still available.,6:52 AM - 25 Apr 2016,2016-04-25 06:52:00,BPLRT,cleared,,,0.0,,
+33,[CCL]CLEARED: Free regular bus services have ceased.,5:46 PM - 14 Nov 2017,2017-11-14 17:46:00,CCL,cleared,,,0.0,,
+34,"[CCL] CLEARED: Fault cleared but trains and stations are crowded. Due to congestion, pls add 5mins travel time towards #HarbourFront. Free regular bus service still available.",4:34 PM - 14 Nov 2017,2017-11-14 16:34:00,CCL,cleared,,,126.00000000000001,BotanicGardens,HawParVilla
+35,"[CCL] UPDATE: Free regular bus services are available between #PayaLebar and
+  #HarbourFront.",3:41 PM - 14 Nov 2017,2017-11-14 15:41:00,CCL,update,PayaLebar,HarbourFront,0,None,None
+36,"[CCL]UPDATE: Free regular bus services are available between #PayaLebar and
+  #HarbourFront.",3:22 PM - 14 Nov 2017,2017-11-14 15:22:00,CCL,update,PayaLebar,HarbourFront,0,None,None
+37,"[CCL]UPDATE: Free regular bus services are available between #BotanicGardens and
+  #KentRidge.",3:09 PM - 14 Nov 2017,2017-11-14 15:09:00,CCL,update,BotanicGardens,KentRidge,0,None,None
+38,"[CCL] UPDATE: Free regular bus services are available between #FarrerRoad and
+  #KentRidge.",2:59 PM - 14 Nov 2017,2017-11-14 14:59:00,CCL,update,FarrerRoad,KentRidge,0,None,None
+39,[CCL]: Due to a Signal fault between #Farrer Road and # Buona Vista .Pls add 20mins train travel time between #Buona Vista and HarbourFornt on both bounds.,2:40 PM - 14 Nov 2017,2017-11-14 14:40:00,CCL,update,Farrer,Buona,0,None,None
+40,[CCL]: Due to a signal  fault trains are moving slower between #BotanicGardens and #HawParVilla.  We are investigating the fault.,2:28 PM - 14 Nov 2017,2017-11-14 14:28:00,CCL,update,BotanicGardens,HawParVilla,0,None,None
+41,[CCL] Update: Train services are running normally now.,7:27 PM - 10 Sep 2017,2017-09-10 19:27:00,CCL,cleared,,,62.00000000000001,PayaLebar,BuonaVista
+42,"[CCL Update] Pls add 30mins additional travelling time from #PayaLebar to
+  #BuonaVista due to train fault. Free Regular bus available.",6:54 PM - 10 Sep 2017,2017-09-10 18:54:00,CCL,update,PayaLebar,BuonaVista,0,None,None
+43,"[CCL Update] Pls add 30mins additional travelling time from #PayaLebar to
+  #BuonaVista due to a train fault. Train Service still available",6:40 PM - 10 Sep 2017,2017-09-10 18:40:00,CCL,update,PayaLebar,BuonaVista,0,None,None
+44,[CCL] UPDATE: Free regular bus services available between #PayaLebar and #BuonaVista.,6:27 PM - 10 Sep 2017,2017-09-10 18:27:00,CCL,update,PayaLebar,BuonaVista,0,None,None
+45,"[CCL] Pls add 15mins additional travelling time from #PayaLebar to
+  #BuonaVista due to a train fault.",6:25 PM - 10 Sep 2017,2017-09-10 18:25:00,CCL,update,PayaLebar,BuonaVista,0,None,None
+46,[CCL] UPDATE: Normal train service resumed towards #HarbourFront. Free regular bus services still available till 11pm.,7:28 AM - 21 Jul 2017,2017-07-21 07:28:00,CCL,cleared,,,20.0,Caldecott,HarbourFront
+47,[CCL] UPDATE: Free regular bus services are available from #Caldecott to #HarbourFront.,7:09 AM - 21 Jul 2017,2017-07-21 07:09:00,CCL,update,Caldecott,HarbourFront,0,None,None
+48,[CCL]: Estimate 15mins additional travelling time from #Caldecott to #HarbourFront towards #HarbourFront due to signal fault.,7:08 AM - 21 Jul 2017,2017-07-21 07:08:00,CCL,update,Caldecott,HarbourFront,0,None,None
+49,CCL: CLEARED: Train Services between #Bishan and #HarbourFront are now operating normally.,3:43 PM - 23 Feb 2017,2017-02-23 15:43:00,CCL,cleared,,,11.0,bishan,HarbourFront
+50,CCL: Estimate 5 mins additional travelling time between #bishan and #HarbourFront in both directions due to signal fault.,3:32 PM - 23 Feb 2017,2017-02-23 15:32:00,CCL,update,bishan,HarbourFront,0,None,None
+51,[CCL] Bus bridging and free regular bus svcs have ceased.,8:30 PM - 1 Nov 2016,2016-11-01 20:30:00,CCL,cleared,,,0.0,,
+52,[CCL] Train svcs have resumed. Bus bridging svc continue btwn #Bishan & #PayaLebar. Free regular bus svc are still avail at all CCL stns.,8:24 PM - 1 Nov 2016,2016-11-01 20:24:00,CCL,cleared,,,0.0,,
+53,[CCL] Train svcs have resumed. Bus bridging svc avail btwn #Bishan & #PayaLebar. Free regular bus svc are still avail at all CCL stns.,8:04 PM - 1 Nov 2016,2016-11-01 20:04:00,CCL,cleared,,,0.0,,
+54,[CCL] Train svcs have resumed. Bus bridging svc avail between #Bishan and #PayaLebar. Free regular bus svc are still avail at all CCL stns.,7:46 PM - 1 Nov 2016,2016-11-01 19:46:00,CCL,cleared,,,157.0,BotanicGardens,HarbourFront
+55,[CCL] Train svcs just resumed. Bus bridging svc avail between #Bishan and #PayaLebar. Free regular bus svc are still avail at all CCL stns.,7:27 PM - 1 Nov 2016,2016-11-01 19:27:00,CCL,update,Bishan,PayaLebar,0,None,None
+56,[CCL]Bus bridging svcs avail between #Bishan and #PayaLebar. Free regular bus svc at all CCL stns. Alt travel option:http://bit.ly/2f87VLl ,7:20 PM - 1 Nov 2016,2016-11-01 19:20:00,CCL,update,Bishan,PayaLebar,0,None,None
+57,[CCL} Bus bridging svcs avail between #Bishan and #PayaLebar. Free regular bus svc at all CCL stns.,7:01 PM - 1 Nov 2016,2016-11-01 19:01:00,CCL,update,Bishan,PayaLebar,0,None,None
+58,[CCL]No train svc btwn #BotanicGardens and #Serangoon. Free regular bus svc at all CCL stns. Alt travel options:http://bit.ly/2f87VLl ,6:50 PM - 1 Nov 2016,2016-11-01 18:50:00,CCL,update,BotanicGardens,Serangoon,0,None,None
+59,[CCL] No train svc btwn #BotanicGardens and #Serangoon. Free regular bus svc at all CCL stns. Alt travel options: http://bit.ly/2f87VLl ,6:32 PM - 1 Nov 2016,2016-11-01 18:32:00,CCL,update,BotanicGardens,Serangoon,0,None,None
+60,[CCL] No train svc between #BotanicGardens and #Marymount. Free regular bus svc at all CCL stns. Alt travel options: http://bit.ly/2f87VLl ,6:26 PM - 1 Nov 2016,2016-11-01 18:26:00,CCL,update,BotanicGardens,Marymount,0,None,None
+61,[CCL] No train service between #BotanicGardens and #Marymount,6:06 PM - 1 Nov 2016,2016-11-01 18:06:00,CCL,update,BotanicGardens,Marymount,0,None,None
+62,"[CCL] UPDATE: Estimate 10 mins additional travelling time from #BotanicGardens to
+  #HarbourFront due to signal fault.",5:09 PM - 1 Nov 2016,2016-11-01 17:09:00,CCL,update,BotanicGardens,HarbourFront,0,None,None
+63,"[CCL] CLEARED: Fault cleared but trains and stations are crowded. Due to
+  congestion, pls add 10mins travel time towards #DhobyGhaut.",4:39 PM - 1 Nov 2016,2016-11-01 16:39:00,CCL,cleared,,,2.0000000000000004,PasirPanjang,one
+64,"[CCL]
+  UPDATE: Estimate 10 mins additional travelling time between #PasirPanjang and
+  #one-north due to signal fault",4:37 PM - 1 Nov 2016,2016-11-01 16:37:00,CCL,update,PasirPanjang,one,0,None,None
+65,[CCL] CLEARED: Train service is running normally now.,7:15 PM - 19 Sep 2016,2016-09-19 19:15:00,CCL,cleared,,,0.0,,
+66,[CCL] Update: Free regular bus service has ceased.,7:03 PM - 19 Sep 2016,2016-09-19 19:03:00,CCL,cleared,,,170.0,DhobyGhaut,MacPherson
+67,"[CCL] Update: Estimate 10mins additional travelling time from #DhobyGhaut to
+#Bishan towards #HarbourFront due to track fault.",6:53 PM - 19 Sep 2016,2016-09-19 18:53:00,CCL,update,DhobyGhaut,Bishan,0,None,None
+68,"[CCL] Update: Estimate 15 mins additional travelling time from #DhobyGhaut to
+#Bishan towards #HarbourFront due to track fault.",6:41 PM - 19 Sep 2016,2016-09-19 18:41:00,CCL,update,DhobyGhaut,Bishan,0,None,None
+69,[CCL] Update: Free regular bus services are available between #PayaLebar & #Bishan.,5:49 PM - 19 Sep 2016,2016-09-19 17:49:00,CCL,update,PayaLebar,Bishan,0,None,None
+70,"[CCL] Update: Estimate 15mins additional travelling time from #DhobyGhaut to
+#Bishan towards #HarbourFront due to track fault.",5:34 PM - 19 Sep 2016,2016-09-19 17:34:00,CCL,update,DhobyGhaut,Bishan,0,None,None
+71,[CCL]:UPDATE: Free regular bus service between #PayaLebar & #Bishan.,5:31 PM - 19 Sep 2016,2016-09-19 17:31:00,CCL,update,PayaLebar,Bishan,0,None,None
+72,"[CCL] Update: Estimate 10mins additional travelling time from #DhobyGhaut to
+#MacPherson towards #HarbourFront due to track fault.",4:34 PM - 19 Sep 2016,2016-09-19 16:34:00,CCL,update,DhobyGhaut,MacPherson,0,None,None
+73,[CCL]: Estimate 5mins additional travelling time from #DhobyGhaut to #MacPherson towards #HarbourFront due to track fault.,4:13 PM - 19 Sep 2016,2016-09-19 16:13:00,CCL,update,DhobyGhaut,MacPherson,0,None,None
+74,[CCL] CLEARED: Train services from #PayaLebar towards #MacPherson are now operating normally.,4:06 PM - 19 Sep 2016,2016-09-19 16:06:00,CCL,cleared,,,9.0,PayaLebar,MacPherson
+75,[CCL]: Estimate 5mins additional travelling time from #PayaLebar to #MacPherson towards #HarbourFront due to track fault.,3:57 PM - 19 Sep 2016,2016-09-19 15:57:00,CCL,update,PayaLebar,MacPherson,0,None,None
+76,[CCL] CLEARED: Train services from #PayaLebar towards #MacPherson are now operating normally.,6:13 AM - 5 Sep 2016,2016-09-05 06:13:00,CCL,cleared,,,51.0,PayaLebar,MacPherson
+77,"[CCL]
+Update: Estimate 5mins additional travelling time from #PayaLebar to
+#MacPherson towards #HarbourFront due to track fault.",5:57 AM - 5 Sep 2016,2016-09-05 05:57:00,CCL,update,PayaLebar,MacPherson,0,None,None
+78,"[CCL] Update: Estimate 10mins additional travelling time from #PayaLebar to
+#MacPherson towards #HarbourFront due to track fault.",5:32 AM - 5 Sep 2016,2016-09-05 05:32:00,CCL,update,PayaLebar,MacPherson,0,None,None
+79,"[CCL]: Estimate 5mins additional travelling time from #PayaLebar to #MacPherson
+  towards #HarbourFront due to track fault.",5:22 AM - 5 Sep 2016,2016-09-05 05:22:00,CCL,update,PayaLebar,MacPherson,0,None,None
+80,[CCL] CLEARED: Train service is running normally now.,11:59 PM - 31 Aug 2016,2016-08-31 23:59:00,CCL,cleared,,,0.0,,
+81,[CCL] Update: Normal service resumed. All commuters are advised to hold onto the handrails as they may experience intermittent braking.,9:44 PM - 30 Aug 2016,2016-08-30 21:44:00,CCL,cleared,,,0.0,,
+82,[CCL] Normal services have resumed. Free shuttle bus services have ceased.,6:31 AM - 25 Apr 2016,2016-04-25 06:31:00,CCL,cleared,,,0.0,,
+83,[CCL] Normal services have resumed. Free shuttle bus services between Pasir Panjang and Habourfront are still ongoing,6:23 AM - 25 Apr 2016,2016-04-25 06:23:00,CCL,cleared,,,0.0,,
+84,[EWL] UPDATE: Free regular bus svcs between #OutramPark and #Bugis have ended.,2:43 PM - 10 Jan 2018,2018-01-10 14:43:00,EWL,cleared,,,0.0,,
+85,[EWL] UPDATE: Train service from #OutramPark to #Bugis has resumed. Free regular bus svcs from #OutramPark to #Bugis is available. Our station staff will assist.,2:33 PM - 10 Jan 2018,2018-01-10 14:33:00,EWL,cleared,,,14.0,OutramPark,Bugis
+86,"[EWL]: Due to a track fault, pls add 20mins train travel time from #OutramPark to #Bugis towards #PasirRis. Free regular bus svcs btwn #OutramPark and #Bugis. Our station staff will assist.",2:19 PM - 10 Jan 2018,2018-01-10 14:19:00,EWL,update,OutramPark,Bugis,0,None,None
+87,[EWL] CLEARED: Train svcs btwn #TanahMerah and #ChangiAirport have resumed. Free regular bus & free bridging bus svcs have ended.,5:02 PM - 1 Jan 2018,2018-01-01 17:02:00,EWL,cleared,,,0.0,,
+88,"[EWL] UPDATE: Fault cleared, train services are progressively being restored. Pls add 10mins train travel time btwn #TanahMerah and #ChangiAirport.",4:59 PM - 1 Jan 2018,2018-01-01 16:59:00,EWL,cleared,,,66.00000000000001,TanahMerah,ChangiAirport
+89,[EWL] UPDATE: Free regular bus & free bridging bus svcs btwn #TanahMerah and #ChangiAirport are still available.,3:57 PM - 1 Jan 2018,2018-01-01 15:57:00,EWL,update,TanahMerah,ChangiAirport,0,None,None
+90,"[EWL]: Track signalling fault recurred, pls add 20mins train travel time btwn #TanahMerah and #ChangiAirport.",3:53 PM - 1 Jan 2018,2018-01-01 15:53:00,EWL,update,TanahMerah,ChangiAirport,0,None,None
+91,"[EWL] UPDATE: Fault cleared, train svcs are progressively being restored. Pls add 10mins train travel time btwn #TanahMerah and #ChangiAirport.",3:17 PM - 1 Jan 2018,2018-01-01 15:17:00,EWL,cleared,,,88.0,ChangiAirport,TanahMerah
+92,[EWL] UPDATE: Pls add 20mins train travel time btwn #TanahMerah and #ChangiAirport. We are working to recover svc.,2:29 PM - 1 Jan 2018,2018-01-01 14:29:00,EWL,update,TanahMerah,ChangiAirport,0,None,None
+93,[EWL] UPDATE: Pls add 30mins train travel time btwn #TanahMerah and #ChangiAirport. We are working to recover svc.,2:23 PM - 1 Jan 2018,2018-01-01 14:23:00,EWL,update,TanahMerah,ChangiAirport,0,None,None
+94,[EWL] UPDATE: Free regular bus & free bridging bus svcs btwn #TanahMerah and #ChangiAirport.,1:59 PM - 1 Jan 2018,2018-01-01 13:59:00,EWL,update,TanahMerah,ChangiAirport,0,None,None
+95,"[EWL]: Due to a track signalling fault, pls add 30mins train travel time btwn #ChangiAirport and #TanahMerah. Free regular bus are available between #Tanah Merah and #Changi Airport.",1:49 PM - 1 Jan 2018,2018-01-01 13:49:00,EWL,update,ChangiAirport,TanahMerah,0,None,None
+96,[EWL] CLEARED: Train svcs btwn #BoonLay and #GulCircle have resumed.  Free regular bus & free bridging bus svcs have ended.,2:24 PM - 6 Dec 2017,2017-12-06 14:24:00,EWL,cleared,,,0.0,,
+97,[EWL] CLEARED: Train svcs btwn #BoonLay and #GulCircle resumed. Free regular bus & free bridging bus svcs are still available between #BoonLay & #GulCircle.,2:05 PM - 6 Dec 2017,2017-12-06 14:05:00,EWL,cleared,,,30816.0,JooKoon,TuasLink
+98,[EWL] UPDATE: Free regular bus & free bridging bus svcs btwn #BoonLay and #GulCircle.,1:23 PM - 6 Dec 2017,2017-12-06 13:23:00,EWL,update,BoonLay,GulCircle,0,None,None
+99,"[EWL]: Due to a train fault, there is no train svc btwn #BoonLay and #GulCircle.",1:22 PM - 6 Dec 2017,2017-12-06 13:22:00,EWL,update,BoonLay,GulCircle,0,None,None
+100,[EWL] Free shuttle buses are avail btwn #JooKoon & #GulCircle for you to continue your journey. We are sorry that your journey will be affected during this period. Thank you for your patience and understanding.,1:01 PM - 19 Nov 2017,2017-11-19 13:01:00,EWL,update,JooKoon,GulCircle,0,None,None
+101,"[EWL] Train svcs btwn #GulCircle & #TuasLink resume today, 20 Nov. There will be no train svc btwn #JooKoon & #GulCircle as our engineers conduct further checks on the signalling system for a mth.",1:00 PM - 19 Nov 2017,2017-11-19 13:00:00,EWL,update,GulCircle,TuasLink,0,None,None
+102,"[EWL]: Train svcs btwn #JooKoon & #TuasLink will continue to be suspended till Sun, 19 Nov. Free regular & bridging bus svcs will be avail btwn #JooKoon & #TuasLink all day. Plan your journey & cater for additional train travel time. Alternative transport: http://bit.ly/2AMuuNK ",2:21 AM - 17 Nov 2017,2017-11-17 02:21:00,EWL,update,JooKoon,TuasLink,0,None,None
+103,[EWL]: Train svcs btwn #JooKoon & #TuasLink will continue to be suspended tmr. Free regular & bridging bus svcs will be avail btwn #JooKoon & #TuasLink all day tmr. Plan your journey early & cater for additional train travel time on EWL. Other transport: http://bit.ly/2iz2Ezz .,4:42 AM - 16 Nov 2017,2017-11-16 04:42:00,EWL,update,JooKoon,TuasLink,0,None,None
+104,[EWL]:Train svc btwn #JooKoon & #TuasLink is suspended. Free regular & bridging bus svcs are available btwn #JooKoon & #TuasLink all day.,12:43 PM - 15 Nov 2017,2017-11-15 12:43:00,EWL,update,JooKoon,TuasLink,0,None,None
+105,[EWL]UPDATE:Train svcs btwn #JooKoon & #TuasLink will be suspended tmr. Free regular bus & bridging bus svcs will be avail btwn #JooKoon & #TuasLink all day tmr. Plan your journey early & cater for additional train travel time on EWL.Alternative transport:http://bit.ly/2iz2Ezz .,4:29 AM - 15 Nov 2017,2017-11-15 04:29:00,EWL,update,JooKoon,TuasLink,0,None,None
+106,[EWL] UPDATE: Free regular bus and bridging bus services between #BoonLay and #TuasLink have ended.,1:34 AM - 15 Nov 2017,2017-11-15 01:34:00,EWL,cleared,,,0.0,,
+107,[EWL] UPDATE: Train services between #BoonLay and #TuasLink have resumed but are running slower. Commuters travelling between #JurongEast and #TuasLink are advised to cater additional 10 minutes travelling time.,1:15 AM - 15 Nov 2017,2017-11-15 01:15:00,EWL,cleared,,,6840.0,TiongBahru,PasirRis
+108,[EWL] UPDATE: No train service between #BoonLay and #TuasLink. Free regular bus and bridging bus services are available between #BoonLay and #TuasLink. Please seek alternative transport: http://bit.ly/2AMuuNK . We are sorry that your journey has been affected.,9:58 PM - 14 Nov 2017,2017-11-14 21:58:00,EWL,update,BoonLay,TuasLink,0,None,None
+109,[EWL] UPDATE: Please add 10 mins train travel time between #BoonLay and #TuasLink. Free regular bus services are still available between #JurongEast and #TuasLink.,6:31 PM - 14 Nov 2017,2017-11-14 18:31:00,EWL,update,BoonLay,TuasLink,0,None,None
+110,[EWL] UPDATE: Please add 15 mins train travel time between #JurongEast and #TuasLink. Free regular bus services are still available between #JurongEast and #TuasLink.,5:58 PM - 14 Nov 2017,2017-11-14 17:58:00,EWL,update,JurongEast,TuasLink,0,None,None
+111,"[EWL] UPDATE: Due to a train fault, please add 30mins train travel time between #Queenstown and #TuasLink. Free regular bus services are available between #JurongEast and #TuasLink.",5:26 PM - 14 Nov 2017,2017-11-14 17:26:00,EWL,update,Queenstown,TuasLink,0,None,None
+112,[EWL] UPDATE: Pls add 30mins train travel time btwn #JurongEast and #TuasLink. We are working to recover svc.,5:00 PM - 14 Nov 2017,2017-11-14 17:00:00,EWL,update,JurongEast,TuasLink,0,None,None
+113,[EWL] UPDATE: Pls add 30mins train travel time btwn #JurongEast and #TuasLink due to a train fault at #JooKoon. Train svc is available.,4:37 PM - 14 Nov 2017,2017-11-14 16:37:00,EWL,update,JurongEast,TuasLink,0,None,None
+114,[EWL] UPDATE: Free regular bus svcs btwn #JurongEast and #TuasLink.,4:35 PM - 14 Nov 2017,2017-11-14 16:35:00,EWL,update,JurongEast,TuasLink,0,None,None
+115,[EWL]: Pls add 20mins train travel time btwn #JurongEast and #JooKoon due to a train fault at #JooKoon. Train svc is available.,4:25 PM - 14 Nov 2017,2017-11-14 16:25:00,EWL,update,JurongEast,JooKoon,0,None,None
+116,[EWL] UPDATE: No train service from #Bugis to #TanahMerah towards #PasirRis due to a train fault at #Aljunied until the end of train service. We are sorry that your journey this evening has been affected.,8:13 AM - 10 Nov 2017,2017-11-10 08:13:00,EWL,update,Bugis,TanahMerah,0,None,None
+117,[EWL] UPDATE: No train svc from #Bugis to #TanahMerah towards #PasirRis due to a train fault at #Aljunied.,7:38 AM - 10 Nov 2017,2017-11-10 07:38:00,EWL,update,Bugis,TanahMerah,0,None,None
+118,[EWL] UPDATE: Free regular bus & Bridging bus svcs is available btwn #Bugis and #PasirRis in both directions.,7:16 AM - 10 Nov 2017,2017-11-10 07:16:00,EWL,update,Bugis,PasirRis,0,None,None
+119,"[EWL]:Due to a train fault,pls add one hour train travel time from #TiongBahru to #PasirRis.Not linked to new signalling project.",7:15 AM - 10 Nov 2017,2017-11-10 07:15:00,EWL,update,TiongBahru,PasirRis,0,None,None
+120,[EWL] CLEARED: Train svcs from #Bugis to #Queenstown have resumed. Free regular bus svcs have ended.,6:58 AM - 10 Nov 2017,2017-11-10 06:58:00,EWL,cleared,,,0.0,,
+121,"[EWL]UPDATE:Train fault cleared,normal train svc http://resumed.Free  regular bus svc are still available btwn Bugis & Queenstown.",6:37 AM - 10 Nov 2017,2017-11-10 06:37:00,EWL,cleared,,,44.0,Bugis,Queenstown
+122,[EWL] UPDATE: Free regular bus svcs is available btwn #Bugis and #Queenstown in both directions.,5:56 AM - 10 Nov 2017,2017-11-10 05:56:00,EWL,update,Bugis,Queenstown,0,None,None
+123,"[EWL]:Due to a train fault,pls add 30min train travel time from #Bugis to #Queenstown towards #TuasLink.Not linked to new signalling project",5:53 AM - 10 Nov 2017,2017-11-10 05:53:00,EWL,update,Bugis,Queenstown,0,None,None
+124,[EWL] CLEARED: Free regular bus services between #Clementi and #JurongEast have ceased.,12:34 AM - 4 Nov 2017,2017-11-04 00:34:00,EWL,cleared,,,0.0,,
+125,[EWL] CLEARED: Train services from #Queenstown  to  #JurongEast have resumed.,12:30 AM - 4 Nov 2017,2017-11-04 00:30:00,EWL,cleared,,,37.0,Queenstown,JurongEast
+126,"[EWL]: Due to a track point fault, pls add 10mins train travel time from #Queenstown to #JurongEast. (Not linked to new signalling project).",12:07 AM - 4 Nov 2017,2017-11-04 00:07:00,EWL,update,Queenstown,JurongEast,0,None,None
+127,[EWL] UPDATE: Free regular bus svcs between #Clementi and #JurongEast.,11:55 PM - 3 Nov 2017,2017-11-03 23:55:00,EWL,update,Clementi,JurongEast,0,None,None
+128,"[EWL]: Due to a track point fault, pls add 30mins train travel time from #Queenstown to #JurongEast. (Not linked to new signalling project).",11:53 PM - 3 Nov 2017,2017-11-03 23:53:00,EWL,update,Queenstown,JurongEast,0,None,None
+129,[EWL] CLEARED: Train svcs btwn #TanahMerah and #PasirRis have resumed. Free regular bus & free bridging bus svcs have ended.,5:37 PM - 27 Sep 2017,2017-09-27 17:37:00,EWL,cleared,,,82.0,Tampines,PasirRis
+130,[EWL] UPDATE: Train svcs are progressively being restored. Pls add 10mins train travel time btwn #TanahMerah and #PasirRis.,5:04 PM - 27 Sep 2017,2017-09-27 17:04:00,EWL,update,TanahMerah,PasirRis,0,None,None
+131,[EWL] UPDATE: Free regular bus & free bridging bus svcs btwn #Tampines and #PasirRis.,4:15 PM - 27 Sep 2017,2017-09-27 16:15:00,EWL,update,Tampines,PasirRis,0,None,None
+132,[EWL] UPDATE: Train svcs has resumed. Pls add 20mins travel time btwn #TanahMerah and #PasirRis due to track point fault.,3:47 PM - 27 Sep 2017,2017-09-27 15:47:00,EWL,cleared,,,0.0,,
+133,[EWL] UPDATE: Train svcs has resumed. Pls add 20mins travel time btwn #Tampines and #PasirRis due to track point fault.,3:15 PM - 27 Sep 2017,2017-09-27 15:15:00,EWL,cleared,,,21.0,TanahMerah,PasirRis
+134,[EWL] UPDATE: Free regular bus svcs btwn #Tampines and #PasirRis.,2:58 PM - 27 Sep 2017,2017-09-27 14:58:00,EWL,update,Tampines,PasirRis,0,None,None
+135,[EWL] UPDATE: Free regular bus svcs btwn #TanahMerah and #PasirRis.,2:54 PM - 27 Sep 2017,2017-09-27 14:54:00,EWL,update,TanahMerah,PasirRis,0,None,None
+136,[EWL] CLEARED: Train services from #JurongEast to #Redhill have resumed.,9:28 PM - 29 Aug 2017,2017-08-29 21:28:00,EWL,cleared,,,255.00000000000003,JurongEast,Redhill
+137,[EWL] UPDATE: Additional train travel time reduced to 5mins from #JurongEast to #Redhill due to a track fault. Train svc is available.,8:21 PM - 29 Aug 2017,2017-08-29 20:21:00,EWL,update,JurongEast,Redhill,0,None,None
+138,[EWL] UPDATE: Additional train travel time reduced to 10mins from #JurongEast to #Redhill due to a track fault. Train svc is available.,7:56 PM - 29 Aug 2017,2017-08-29 19:56:00,EWL,update,JurongEast,Redhill,0,None,None
+139,[EWL] UPDATE: Pls add 15mins train travel time from #JurongEast to #Redhill due to a track fault at #Redhill. Train svc is available.,5:42 PM - 29 Aug 2017,2017-08-29 17:42:00,EWL,update,JurongEast,Redhill,0,None,None
+140,"[EWL]:Due to a track fault,pls add 10mins train travel time from #JurongEast to #Redhill.(Not linked to new signalling project).",5:13 PM - 29 Aug 2017,2017-08-29 17:13:00,EWL,update,JurongEast,Redhill,0,None,None
+141,[EWL] CLEARED: Train services on the EWL are running normally now.,10:58 PM - 24 Jul 2017,2017-07-24 22:58:00,EWL,cleared,,,0.0,,
+142,[EWL] CLEARED: We have stopped free regular bus services.,9:08 PM - 24 Jul 2017,2017-07-24 21:08:00,EWL,cleared,,,0.0,,
+143,[EWL] CLEARED: Train svcs btwn #Queenstown & #Bugis are progressively returning to normal. Free regular bus svcs are still available.,8:59 PM - 24 Jul 2017,2017-07-24 20:59:00,EWL,cleared,,,44.0,Queenstown,Bugis
+144,[EWL] UPDATE: Free regular bus svcs are available btwn #Queenstown & #Bugis both bounds.,8:17 PM - 24 Jul 2017,2017-07-24 20:17:00,EWL,update,Queenstown,Bugis,0,None,None
+145,[EWL] UPDATE: No train svc from 11.30am btwn #Queenstown & #Bugis both bounds for up to 30 mins due to urgent repair works.,8:15 PM - 24 Jul 2017,2017-07-24 20:15:00,EWL,update,Queenstown,Bugis,0,None,None
+146,[EWL] CLEARED: Track circuit fault cleared at #Commonwealth. Train services are returning to normal speed.,8:06 PM - 24 Jul 2017,2017-07-24 20:06:00,EWL,cleared,,,135.00000000000003,JooKoon,Commonwealth
+147,"[EWL] UPDATE: Due to an earlier track circuit fault at #Commonwealth, pls add 25 mins train travel time from #JooKoon to #TiongBahru.",6:51 PM - 24 Jul 2017,2017-07-24 18:51:00,EWL,update,JooKoon,TiongBahru,0,None,None
+148,"[EWL]: Due to an earlier track circuit fault at #Commonwealth, pls add 20 mins train travel time from #JooKoon to #Commonwealth.",6:33 PM - 24 Jul 2017,2017-07-24 18:33:00,EWL,update,JooKoon,Commonwealth,0,None,None
+149,"[EWL]: Due to a track circuit fault at #Commonwealth, pls add 15 mins train travel time from #JooKoon to #Commonwealth.",5:51 PM - 24 Jul 2017,2017-07-24 17:51:00,EWL,update,JooKoon,Commonwealth,0,None,None
+150,"[EWL]UPDATE:Track fault cleared, train services are progressively being restored.",2:45 AM - 21 Jul 2017,2017-07-21 02:45:00,EWL,cleared,,,11.0,Clementi,TanjongPagar
+151,"[EWL]:Due to a track fault(not related to new signalling system),Pls add 15mins travel time from #Clementi to #TanjongPagar towards PasirRis",2:34 AM - 21 Jul 2017,2017-07-21 02:34:00,EWL,update,Clementi,TanjongPagar,0,None,None
+152,[EWL] CLEARED: Train services between #TuasLink & #Queenstown have resumed. Free regular bus services are still available.,9:20 AM - 12 Jul 2017,2017-07-12 09:20:00,EWL,cleared,,,0.0,,
+153,[EWL] CLEARED: Train service from #JooKoon towards #Clementi have resumed.,7:58 PM - 11 Jul 2017,2017-07-11 19:58:00,EWL,cleared,,,137.0,JooKoon,Clementi
+154,"[EWL]UPDATE:Pls add 5 mins travel time from #JooKoon towards #Clementi,due to a track circuit fault at #JurongEast. Train svc is available.",7:42 PM - 11 Jul 2017,2017-07-11 19:42:00,EWL,update,JooKoon,Clementi,0,None,None
+155,"[EWL]: Due to a track circuit fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is available.",6:46 PM - 11 Jul 2017,2017-07-11 18:46:00,EWL,update,JooKoon,Clementi,0,None,None
+156,"[EWL]: Due to a track circuit fault, pls add 20 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is available.",6:13 PM - 11 Jul 2017,2017-07-11 18:13:00,EWL,update,JooKoon,Clementi,0,None,None
+157,"[EWL]: Due to a train fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is available.",5:41 PM - 11 Jul 2017,2017-07-11 17:41:00,EWL,update,JooKoon,Clementi,0,None,None
+158,[EWL]UPDATE: Train services are progressively being restored to normal btwn #Queenstown & #Bugis.,5:31 AM - 10 Jul 2017,2017-07-10 05:31:00,EWL,cleared,,,105.0,Queenstown,Bugis
+159,[EWL] UPDATE: We have stopped free regular bus services between #Queenstown and #Bugis.,5:26 AM - 10 Jul 2017,2017-07-10 05:26:00,EWL,update,Queenstown,Bugis,0,None,None
+160,[EWL] UPDATE: Pls cater 15 mins additional travel time between #Queenstown & #Bugis. We are working to recover service.,5:18 AM - 10 Jul 2017,2017-07-10 05:18:00,EWL,update,Queenstown,Bugis,0,None,None
+161,"[EWL]Update:Due to a signalling fault,pls add 25mins travel time between #Queenstown & #Bugis.Free regular bus services still available.",4:12 AM - 10 Jul 2017,2017-07-10 04:12:00,EWL,update,Queenstown,Bugis,0,None,None
+162,"[EWL]Update: Due to a signalling fault, pls add 25mins travel time between #Queenstown & #Bugis. Train service is available.",3:57 AM - 10 Jul 2017,2017-07-10 03:57:00,EWL,update,Queenstown,Bugis,0,None,None
+163,[EWL] UPDATE: Free regular bus services are available between #Queenstown & #Bugis.,3:52 AM - 10 Jul 2017,2017-07-10 03:52:00,EWL,update,Queenstown,Bugis,0,None,None
+164,"[EWL]: Due to a signalling fault, pls add 15mins travel time between #Queenstown & #Bugis. Train service is available.",3:46 AM - 10 Jul 2017,2017-07-10 03:46:00,EWL,update,Queenstown,Bugis,0,None,None
+165,[EWL]UPDATE: Train fault at #JooKoon has been cleared. Trains are progressively back to normal speed.,4:29 AM - 5 Jul 2017,2017-07-05 04:29:00,EWL,cleared,,,27.0,JurongEast,JooKoon
+166,"[EWL]UPDATE:Pls add 10 mins travel time from #JurongEast to #JooKoon,due to an earlier train fault at #JooKoon. Train svc is available.",4:13 AM - 5 Jul 2017,2017-07-05 04:13:00,EWL,update,JurongEast,JooKoon,0,None,None
+167,"[EWL]: Due to a train fault, pls add 15 mins travel time from #JurongEast to #JooKoon towards #JooKoon. Train service is available.",4:02 AM - 5 Jul 2017,2017-07-05 04:02:00,EWL,update,JurongEast,JooKoon,0,None,None
+168,[EWL] UPDATE: Train services btw #JKN and #TLK have resumed. Free bus services are still available between #JKN and #TLK.,2:56 AM - 28 Jun 2017,2017-06-28 02:56:00,EWL,cleared,,,4.000000000000001,JKN,TLK
+169,[EWL] UPDATE: Free bus services are still available between #JKN and #TLK.,2:52 AM - 28 Jun 2017,2017-06-28 02:52:00,EWL,update,JKN,TLK,0,None,None
+170,[EWL] UPDATE: Train services btw #TLK and #GCL are progressively returning to normal. No train services btw #JKN and #GCL.,2:47 AM - 28 Jun 2017,2017-06-28 02:47:00,EWL,cleared,,,25.0,TLK,JKN
+171,"[EWL]: Due to a signalling fault, there are no train service btw #TLK & #JKN. Free regular bus services are available btw #TLK & #JKN.",2:22 AM - 28 Jun 2017,2017-06-28 02:22:00,EWL,update,TLK,JKN,0,None,None
+172,[EWL]UPDATE:Congestion from #Redhill to #Dover has cleared. Normal service has resumed.,9:55 PM - 13 Jun 2017,2017-06-13 21:55:00,EWL,cleared,,,282.0,CityHall,Dover
+173,"[EWL]UPDATE: Due to a track circuit fault at #BuonaVista,pls add 5mins travel time from #Redhill to #Dover,train svc is still available.",9:47 PM - 13 Jun 2017,2017-06-13 21:47:00,EWL,update,Redhill,Dover,0,None,None
+174,"[EWL]UPDATE: Due to a track circuit fault at #BuonaVista,pls add 10mins travel time from #Redhill to #Dover,train svc is still available.",9:19 PM - 13 Jun 2017,2017-06-13 21:19:00,EWL,update,Redhill,Dover,0,None,None
+175,"[EWL]UPDATE: Due to a track circuit fault at #BuonaVista,pls add 10mins travel time from #CityHall to #Dover,train svc is still available.",8:57 PM - 13 Jun 2017,2017-06-13 20:57:00,EWL,update,CityHall,Dover,0,None,None
+176,[EWL] UPDATE:  Pls cater 10 mins additional travel time from #CityHall to #Dover.We are working to recover service.,8:37 PM - 13 Jun 2017,2017-06-13 20:37:00,EWL,update,CityHall,Dover,0,None,None
+177,"[EWL]UPDATE:Due to a track circuit fault at #BuonaVista,pls add 10 mins travel time from #CityHall to #Dover,train svc is still available.",8:16 PM - 13 Jun 2017,2017-06-13 20:16:00,EWL,update,CityHall,Dover,0,None,None
+178,[EWL] UPDATE: Pls cater 10 mins additional travel time from #CityHall to #Dover.We are working to recover service.,7:56 PM - 13 Jun 2017,2017-06-13 19:56:00,EWL,update,CityHall,Dover,0,None,None
+179,"[EWL]UPDATE:Due to a track circuit fault at #BuonaVista,pls add 15 mins travel time from #CityHall to #Dover,train svc is still available.",7:35 PM - 13 Jun 2017,2017-06-13 19:35:00,EWL,update,CityHall,Dover,0,None,None
+180,[EWL] UPDATE: Pls cater 20 mins additional travel time from #CityHall to #Dover.We are working to recover service.,7:16 PM - 13 Jun 2017,2017-06-13 19:16:00,EWL,update,CityHall,Dover,0,None,None
+181,"[EWL]UPDATE:Due to a track circuit fault at #BuonaVista,pls add 20 mins travel time from #CityHall to #Dover,train svc is still available.",6:56 PM - 13 Jun 2017,2017-06-13 18:56:00,EWL,update,CityHall,Dover,0,None,None
+182,[EWL] UPDATE: Pls cater 25 mins additional travel time from #CityHall to #Dover.We are working to recover service.,6:35 PM - 13 Jun 2017,2017-06-13 18:35:00,EWL,update,CityHall,Dover,0,None,None
+183,"[EWL]UPDATE:Pls add 25 mins travel time from #CityHall to #Dover,due to a track circuit fault at #BuonaVista.Train svc is still available.",6:14 PM - 13 Jun 2017,2017-06-13 18:14:00,EWL,update,CityHall,Dover,0,None,None
+184,[EWL] UPDATE: Pls cater 25 mins additional travel time from #CityHall to #Dover. We are working to recover service.,5:50 PM - 13 Jun 2017,2017-06-13 17:50:00,EWL,update,CityHall,Dover,0,None,None
+185,"[EWL]UPDATE:Pls add 25 mins travel time from #CityHall to #Dover,due to a track circuit fault at #BuonaVista. Train svc is still available.",5:32 PM - 13 Jun 2017,2017-06-13 17:32:00,EWL,update,CityHall,Dover,0,None,None
+186,"[EWL]UPDATE:Pls add 15 mins travel time from #CityHall to #Dover,due to a track circuit fault at #BuonaVista. Train svc is still available.",5:13 PM - 13 Jun 2017,2017-06-13 17:13:00,EWL,update,CityHall,Dover,0,None,None
+187,[EWL] CLEARED: Train services from #PayaLebar to #Simei towards #PasirRis have resumed.,7:58 PM - 17 Apr 2017,2017-04-17 19:58:00,EWL,cleared,,,143.0,PayaLebar,Simei
+188,[EWL] UPDATE: Pls cater 5 mins additional travel time from #PayaLebar to #Simei. We are working to recover service.,7:36 PM - 17 Apr 2017,2017-04-17 19:36:00,EWL,update,PayaLebar,Simei,0,None,None
+189,[EWL] UPDATE: Pls cater 10mins additional travel time from #PayaLebar to #Simei. We are working to recover service.,7:21 PM - 17 Apr 2017,2017-04-17 19:21:00,EWL,update,PayaLebar,Simei,0,None,None
+190,"[EWL]UPDATE: Pls add 15 mins travel time from #PayaLebar to #Simei, due to a track fault at #Simei. Train svc is still available.",6:59 PM - 17 Apr 2017,2017-04-17 18:59:00,EWL,update,PayaLebar,Simei,0,None,None
+191,[EWL] UPDATE:  Pls cater 15 mins additional travel time from #PayaLebar to #Simei. We are working to recover service.,6:40 PM - 17 Apr 2017,2017-04-17 18:40:00,EWL,update,PayaLebar,Simei,0,None,None
+192,"[EWL]UPDATE:Pls add 15 mins travel time from #PayaLebar to #Simei, due to a track fault at #Simei. Train svc is still available.",6:20 PM - 17 Apr 2017,2017-04-17 18:20:00,EWL,update,PayaLebar,Simei,0,None,None
+193,[EWL] UPDATE: Pls cater 15 mins additional travel time from #PayaLebar to #Simei. We are working to recover service.,6:02 PM - 17 Apr 2017,2017-04-17 18:02:00,EWL,update,PayaLebar,Simei,0,None,None
+194,[EWL] UPDATE: Pls cater 10 mins additional travel time from #PayaLebar to #Simei. We are working to recover service.,5:57 PM - 17 Apr 2017,2017-04-17 17:57:00,EWL,update,PayaLebar,Simei,0,None,None
+195,"[EWL]: Due to a track fault, pls add 10 mins travel time from #PayaLebar to #Simei towards #PasirRis. Train service is still available.",5:35 PM - 17 Apr 2017,2017-04-17 17:35:00,EWL,update,PayaLebar,Simei,0,None,None
+196,[EWL] CLEARED: Train services between #JooKoon & #Queenstown have resumed. Free regular bus services have ceased.,5:21 PM - 10 Apr 2017,2017-04-10 17:21:00,EWL,cleared,,,0.0,,
+197,"[EWL]UPDATE:Train fault cleared , trains are progressively returning to normal speed. Pls add 10mins travel time btwn #JooKoon & #Queenstown",5:08 PM - 10 Apr 2017,2017-04-10 17:08:00,EWL,cleared,,,24.0,JooKoon,Queenstown
+198,[EWL] UPDATE: Free regular bus services are available between #JooKoon & #Queenstown.,4:49 PM - 10 Apr 2017,2017-04-10 16:49:00,EWL,update,JooKoon,Queenstown,0,None,None
+199,"[EWL]: Due to a train fault, pls add 25mins travel time between #JooKoon & #Queenstown. Train service is still available.",4:44 PM - 10 Apr 2017,2017-04-10 16:44:00,EWL,update,JooKoon,Queenstown,0,None,None
+200,[EWL] CLEARED: Train services from #Bugis to #TanahMerah are running normally now.,7:35 PM - 9 Apr 2017,2017-04-09 19:35:00,EWL,cleared,,,64.00000000000001,Bugis,TanahMerah
+201,[EWL] UPDATE: Pls cater 5 mins additional travel time from #Bugis to #TanahMerah. We are working to recover service.,7:18 PM - 9 Apr 2017,2017-04-09 19:18:00,EWL,update,Bugis,TanahMerah,0,None,None
+202,[EWL] UPDATE: Pls cater 10 mins additional travel time from #Bugis to #TanahMerah. We are working to recover service.,7:09 PM - 9 Apr 2017,2017-04-09 19:09:00,EWL,update,Bugis,TanahMerah,0,None,None
+203,"[EWL]UPDATE:Pls add 15 mins travel time from #Bugis to #TanahMerah,due to a door fault at #Bedok. Train svc is still available",6:49 PM - 9 Apr 2017,2017-04-09 18:49:00,EWL,update,Bugis,TanahMerah,0,None,None
+204,"[EWL]: Due to a Platform Screen Door fault at Bedok, pls add 10 mins travel time from #Bugis to #TanahMerah towards #PasirRis.",6:31 PM - 9 Apr 2017,2017-04-09 18:31:00,EWL,update,Bugis,TanahMerah,0,None,None
+205,[EWL] CLEARED: Free regular bus services have ceased.,4:15 AM - 30 Mar 2017,2017-03-30 04:15:00,EWL,cleared,,,0.0,,
+206,[EWL]UPDATE: Train service from #PasirRis to #PayaLebar has resumed. Free regular bus services are available from #TanahMerah to #PayaLebar.,3:54 AM - 30 Mar 2017,2017-03-30 03:54:00,EWL,cleared,,,57.0,PasirRis,PayaLebar
+207,[EWL] UPDATE: Pls cater 20 mins additional travel time from #PasirRis towards #PayaLebar. We are working to recover service.,3:38 AM - 30 Mar 2017,2017-03-30 03:38:00,EWL,update,PasirRis,PayaLebar,0,None,None
+208,"[EWL]UPDATE:Pls add 40 mins travel time from #PasirRis to #PayaLebar,due to a train fault near #TanahMerah. Train svc is still available.",3:08 AM - 30 Mar 2017,2017-03-30 03:08:00,EWL,update,PasirRis,PayaLebar,0,None,None
+209,[EWL] UPDATE: Free regular bus services are available from #TanahMerah to #PayaLebar towards #JooKoon.,3:04 AM - 30 Mar 2017,2017-03-30 03:04:00,EWL,update,TanahMerah,PayaLebar,0,None,None
+210,"[EWL]: Due to a train fault, pls add 20mins travel time from #PasirRis to #PayaLebar towards #JooKoon. Train service is still available.",2:57 AM - 30 Mar 2017,2017-03-30 02:57:00,EWL,update,PasirRis,PayaLebar,0,None,None
+211,[EWL] CLEARED: Free bus service has ceased. We apologise for the inconvenience.,9:07 PM - 14 Mar 2017,2017-03-14 21:07:00,EWL,cleared,,,0.0,,
+212,[EWL] CLEARED: Train service between #TanahMerah     and #PasirRis resume. Free bus service is still available.,8:55 PM - 14 Mar 2017,2017-03-14 20:55:00,EWL,cleared,,,27.0,PasirRis,TanahMerah
+213,"[EWL]: Due to a train fault, pls add 25 mins travel time from #PasirRis to #TanahMerah towards #JooKoon. Train service is still available.",8:28 PM - 14 Mar 2017,2017-03-14 20:28:00,EWL,update,PasirRis,TanahMerah,0,None,None
+214,[EWL] CLEARED: Train services between #JooKoon & #Lakeside have resumed.,5:02 PM - 22 Feb 2017,2017-02-22 17:02:00,EWL,cleared,,,0.0,,
+215,"[EWL]UPDATE:Fault cleared , trains service are progressively returning to normal speed btwn #JooKoon & #Lakeside.",4:36 PM - 22 Feb 2017,2017-02-22 16:36:00,EWL,cleared,,,8.000000000000002,JooKoon,Lakeside
+216,"[EWL]: Due to a train fault, train service between #JooKoon & #Lakeside will delay for 20 minutes.",4:28 PM - 22 Feb 2017,2017-02-22 16:28:00,EWL,update,JooKoon,Lakeside,0,None,None
+217,[EWL]UPDATE:Train service is running normally now.,8:06 PM - 11 Feb 2017,2017-02-11 20:06:00,EWL,cleared,,,268.00000000000006,BoonLay,JooKoon
+218,"[EWL] UPDATE: Due to an earlier track fault, pls add 10mins travel time between #BoonLay & #JooKoon.",3:38 PM - 11 Feb 2017,2017-02-11 15:38:00,EWL,update,BoonLay,JooKoon,0,None,None
+219,[EWL] CLEARED: Free regular bus & free bridging bus services have ceased.,3:37 PM - 11 Feb 2017,2017-02-11 15:37:00,EWL,cleared,,,9.0,BoonLay,JooKoon
+220,"[EWL] UPDATE: [EWL]: Due to an earlier track fault, pls add 10mins travel time between #BoonLay & #JooKoon.",3:28 PM - 11 Feb 2017,2017-02-11 15:28:00,EWL,update,BoonLay,JooKoon,0,None,None
+221,[EWL] UPDATE: Train service resumed. Free regular bus & free bridging bus services are still available between #JooKoon & #BoonLay.,3:05 PM - 11 Feb 2017,2017-02-11 15:05:00,EWL,cleared,,,67.00000000000001,JooKoon,BoonLay
+222,[EWL] UPDATE: No train service between #JooKoon & #BoonLay. Check our bus guides at http://www.smrt.com.sg/Trains/Alternative-Travel-Options …,2:44 PM - 11 Feb 2017,2017-02-11 14:44:00,EWL,update,JooKoon,BoonLay,0,None,None
+223,[EWL] UPDATE: Free regular bus & free bridging bus services are available between #JooKoon & #BoonLay.,2:24 PM - 11 Feb 2017,2017-02-11 14:24:00,EWL,update,JooKoon,BoonLay,0,None,None
+224,[EWL]No train service between #JooKoon &#BoonLay due to a track fault at #JooKoon. Free bridging bus is available between #JooKoon &#BoonLay,1:58 PM - 11 Feb 2017,2017-02-11 13:58:00,EWL,update,JooKoon,BoonLay,0,None,None
+225,[EWL]UPDATE:Trains are progressively returning to normal speed from #JurongEast to #JooKoon.,5:11 PM - 6 Feb 2017,2017-02-06 17:11:00,EWL,cleared,,,59.0,JurongEast,JooKoon
+226,"[EWL]UPDATE:Pls add 10 mins travel time from #JurongEast towards #JooKoon,due to a track work at #JooKoon. Train svc is still available",5:01 PM - 6 Feb 2017,2017-02-06 17:01:00,EWL,update,JurongEast,JooKoon,0,None,None
+227,"[EWL]UPDATE:Pls add 15 mins travel time from #JurongEast towards #JooKoon,due to a track work at #JooKoon. Train svc is still available.",4:52 PM - 6 Feb 2017,2017-02-06 16:52:00,EWL,update,JurongEast,JooKoon,0,None,None
+228,"[EWL]UPDATE:Pls add 20 mins travel time from #JurongEast towards #JooKoon,due to a track work at #JooKoon. Train svc is still available.",4:45 PM - 6 Feb 2017,2017-02-06 16:45:00,EWL,update,JurongEast,JooKoon,0,None,None
+229,"[EWL]UPDATE:Pls add 25 mins travel time from #JurongEast towards #JooKoon,due to a track work at #JooKoon. Train svc is still available",4:35 PM - 6 Feb 2017,2017-02-06 16:35:00,EWL,update,JurongEast,JooKoon,0,None,None
+230,"[EWL]UPDATE:Pls add 20 mins travel time from #JurongEast towards #JooKoon,due to a track work at #JooKoon. Train svc is still available",4:22 PM - 6 Feb 2017,2017-02-06 16:22:00,EWL,update,JurongEast,JooKoon,0,None,None
+231,"[EWL]: Due to a track work, pls add 15 mins travel time from #JurongEast to #JooKoon towards #JooKoon. Train service is still available.",4:12 PM - 6 Feb 2017,2017-02-06 16:12:00,EWL,update,JurongEast,JooKoon,0,None,None
+232,[EWL]UPDATE:Train service is running normally now.,6:17 AM - 23 Jan 2017,2017-01-23 06:17:00,EWL,cleared,,,223.0,JooKoon,Clementi
+233,"[EWL]UPDATE:Pls add 10 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",6:00 AM - 23 Jan 2017,2017-01-23 06:00:00,EWL,update,JooKoon,Clementi,0,None,None
+234,"[EWL]UPDATE:Pls add 15 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",5:47 AM - 23 Jan 2017,2017-01-23 05:47:00,EWL,update,JooKoon,Clementi,0,None,None
+235,"[EWL]UPDATE:Pls add 20 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",5:30 AM - 23 Jan 2017,2017-01-23 05:30:00,EWL,update,JooKoon,Clementi,0,None,None
+236,"[EWL]UPDATE: Pls add 25mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",5:18 AM - 23 Jan 2017,2017-01-23 05:18:00,EWL,update,JooKoon,Clementi,0,None,None
+237,"[EWL]UPDATE: Pls add 25 mins travel time from #JooKoon towards #Clementi, due to a track fault at #JurongEast. Train svc is still available.",4:58 AM - 23 Jan 2017,2017-01-23 04:58:00,EWL,update,JooKoon,Clementi,0,None,None
+238,"[EWL]UPDATE:Pls add 25 mins travel time from #JooKoon towards #Clementi, due to a track fault at #JurongEast.Train svc is still available.",4:39 AM - 23 Jan 2017,2017-01-23 04:39:00,EWL,update,JooKoon,Clementi,0,None,None
+239,"[EWL]UPDATE:Pls add 25 mins travel time from #JooKoon towards #Clementi, due to a track fault at #JurongEast. Train svc is still available.",4:20 AM - 23 Jan 2017,2017-01-23 04:20:00,EWL,update,JooKoon,Clementi,0,None,None
+240,"[EWL]UPDATE:Pls add 25 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",4:00 AM - 23 Jan 2017,2017-01-23 04:00:00,EWL,update,JooKoon,Clementi,0,None,None
+241,"[EWL]UPDATE: Pls add 25 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available.",3:43 AM - 23 Jan 2017,2017-01-23 03:43:00,EWL,update,JooKoon,Clementi,0,None,None
+242,"[EWL]UPDATE:Pls add 25 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available",3:26 AM - 23 Jan 2017,2017-01-23 03:26:00,EWL,update,JooKoon,Clementi,0,None,None
+243,"[EWL]UPDATE:Pls add 20 mins travel time from #JooKoon towards #Clementi,due to a track fault at #JurongEast. Train svc is still available",3:00 AM - 23 Jan 2017,2017-01-23 03:00:00,EWL,update,JooKoon,Clementi,0,None,None
+244,"[EWL]: Due to a track fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is still available.",2:34 AM - 23 Jan 2017,2017-01-23 02:34:00,EWL,update,JooKoon,Clementi,0,None,None
+245,"[EWL]UPDATE:Fault cleared, trains are running normally now.",5:50 PM - 18 Jan 2017,2017-01-18 17:50:00,EWL,cleared,,,0.0,,
+246,"[EWL]UPDATE:Track fault cleared,trains are progressively returning to normal speed.Pls add 10mins travel time from #JooKoon towards#Clementi",5:27 PM - 18 Jan 2017,2017-01-18 17:27:00,EWL,cleared,,,101.0,JooKoon,Clementi
+247,"[EWL]UPDATE: Pls add 15 mins travel time from #JooKoon towards #Clementi,due to a track fault at #Clementi. Train svc is still available",5:13 PM - 18 Jan 2017,2017-01-18 17:13:00,EWL,update,JooKoon,Clementi,0,None,None
+248,"[EWL]UPDATE:Pls add 20 mins travel time from #JooKoon towards #Clementi, due to a track fault at #Clementi. Train svc is still available",5:02 PM - 18 Jan 2017,2017-01-18 17:02:00,EWL,update,JooKoon,Clementi,0,None,None
+249,"[EWL]UPDATE: Pls add 20 mins travel time from #JooKoon towards #Clementi,due to a track fault at #Clementi. Train svc is still available",4:42 PM - 18 Jan 2017,2017-01-18 16:42:00,EWL,update,JooKoon,Clementi,0,None,None
+250,"[EWL]UPDATE:Pls add 20 mins travel time from #JooKoon towards #Clementi,due to a track fault at #Clementi. Train svc is still available",4:25 PM - 18 Jan 2017,2017-01-18 16:25:00,EWL,update,JooKoon,Clementi,0,None,None
+251,"[EWL]UPDATE:Pls add 15 mins travel time from #JooKoon towards #Clementi,due to a track fault at #Clementi. Train svc is still available",4:01 PM - 18 Jan 2017,2017-01-18 16:01:00,EWL,update,JooKoon,Clementi,0,None,None
+252,"[EWL]: Due to a track fault, pls add 10 mins travel time from #JooKoon to #Clementi towards #PasirRis. Train service is still available.",3:46 PM - 18 Jan 2017,2017-01-18 15:46:00,EWL,update,JooKoon,Clementi,0,None,None
+253,"[EWL]UPDATE:Track fault cleared, trains are progressively returning to normal speed.",4:38 PM - 3 Jan 2017,2017-01-03 16:38:00,EWL,cleared,,,51.0,BoonLay,Clementi
+254,[EWL]UPDATE: Pls expect 15mins travel time fr #BoonLay to #Clementi towards #PasirRis due to track fault. Train service is still available.,4:22 PM - 3 Jan 2017,2017-01-03 16:22:00,EWL,update,BoonLay,Clementi,0,None,None
+255,"[EWL]: Due to a track fault, pls add 10 mins travel time from #BoonLay to #Clementi towards #PasirRis. Train service is still available.",3:47 PM - 3 Jan 2017,2017-01-03 15:47:00,EWL,update,BoonLay,Clementi,0,None,None
+256,"[EWL]UPDATE:Track fault cleared, trains are progressively returning to normal speed from #TanahMerah to #Eunos towards #JooKoon .",5:57 PM - 22 Dec 2016,2016-12-22 17:57:00,EWL,cleared,,,163.0,TanahMerah,Eunos
+257,[EWL] UPDATE: Pls add 10 mins travel time from #TanahMerah towards #JooKoon. We are working to recover service. Train svc still available.,4:08 PM - 22 Dec 2016,2016-12-22 16:08:00,EWL,update,TanahMerah,JooKoon,0,None,None
+258,"[EWL]UPDATE:Due to a track fault at #Eunos, Pls add 10 mins travel time from #TanahMerah towards #JooKoon. Train svc is still available.",3:49 PM - 22 Dec 2016,2016-12-22 15:49:00,EWL,update,TanahMerah,JooKoon,0,None,None
+259,"[EWL]UPDATE:Pls add 10 mins travel time from #TanahMerah towards #JooKoon,due to a track fault at #Eunos. Train svc is still available",3:33 PM - 22 Dec 2016,2016-12-22 15:33:00,EWL,update,TanahMerah,JooKoon,0,None,None
+260,"[EWL]: Due to a track fault, pls add 10 mins travel time from #TanahMerah to #Eunos towards #JooKoon. Train service is still available.",3:14 PM - 22 Dec 2016,2016-12-22 15:14:00,EWL,update,TanahMerah,Eunos,0,None,None
+261,[EWL] CLEARED: Free regular bus between #OutramPark & #Aljunied have ceased.,2:05 PM - 22 Dec 2016,2016-12-22 14:05:00,EWL,cleared,,,0.0,,
+262,[EWL] CLEARED: Free bridging bus services between #OutramPark & #Aljunied have ceased. Free regular bus service is still available.,1:52 PM - 22 Dec 2016,2016-12-22 13:52:00,EWL,cleared,,,0.0,,
+263,[EWL] CLEARED: Train services between #OutramPark & #Aljunied have resumed.,1:43 PM - 22 Dec 2016,2016-12-22 13:43:00,EWL,cleared,,,10.0,OutramPark,Aljunied
+264,[EWL] UPDATE: Free regular bus & free bridging bus services are available between #OutramPark & #Aljunied.,1:36 PM - 22 Dec 2016,2016-12-22 13:36:00,EWL,update,OutramPark,Aljunied,0,None,None
+265,[EWL] No train service between #OutramPark & #Aljunied due to a traction power fault near #Bugis.,1:33 PM - 22 Dec 2016,2016-12-22 13:33:00,EWL,update,OutramPark,Aljunied,0,None,None
+266,[EWL]CLEARED: Train services from #Aljunied to #Eunos have resumed.,4:24 AM - 22 Dec 2016,2016-12-22 04:24:00,EWL,cleared,,,55.0,OutramPark,Eunos
+267,"[EWL]: Due to a track fault, pls add 5 mins travel time from #Aljunied to #Eunos towards #PasirRis. Train service is still available.",4:08 AM - 22 Dec 2016,2016-12-22 04:08:00,EWL,update,Aljunied,Eunos,0,None,None
+268,"[EWL]: Due to a track fault, pls add 10 mins travel time from #OutramPark to #Eunos towards #PasirRis. Train service is still available.",3:51 AM - 22 Dec 2016,2016-12-22 03:51:00,EWL,update,OutramPark,Eunos,0,None,None
+269,"[EWL]: Due to a track fault, pls add 15 mins travel time from #OutramPark to #Eunos towards #PasirRis. Train service is still available.",3:29 AM - 22 Dec 2016,2016-12-22 03:29:00,EWL,update,OutramPark,Eunos,0,None,None
+270,[EWL] CLEARED: Train services between #PasirRis & #OutramPark have resumed.,5:12 PM - 13 Dec 2016,2016-12-13 17:12:00,EWL,cleared,,,0.0,,
+271,"[EWL]UPDATE:Fault cleared , trains are progressively returning to normal speed. Pls add 10mins travel time btwn #PasirRis & #OutramPark.",5:01 PM - 13 Dec 2016,2016-12-13 17:01:00,EWL,cleared,,,34.00000000000001,PasirRis,OutramPark
+272,[EWL]UPDATE:Pls add 20mins travel time between #PasirRis & #OutramPark due to a signalling fault at #Aljunied. Train svc is still available,4:39 PM - 13 Dec 2016,2016-12-13 16:39:00,EWL,update,PasirRis,OutramPark,0,None,None
+273,"[EWL]: Due to a signalling fault, pls add 10mins travel time between #PasirRis & #OutramPark. Train service is still available.",4:27 PM - 13 Dec 2016,2016-12-13 16:27:00,EWL,update,PasirRis,OutramPark,0,None,None
+274,"[EWL]UPDATE:Fault cleared, trains are progressively returning to normal speed.",4:18 AM - 6 Dec 2016,2016-12-06 04:18:00,EWL,cleared,,,15.0,CityHall,JurongEast
+275,"[EWL]: Due to a track fault near JurongEast, pls add 10 mins travel time from #CityHall to #JurongEast. Train service is still available.",4:03 AM - 6 Dec 2016,2016-12-06 04:03:00,EWL,update,CityHall,JurongEast,0,None,None
+276,[EWL] CLEARED: Train services between #BoonLay & #JooKoon have resumed. Free regular bus services have ceased.,3:34 AM - 6 Dec 2016,2016-12-06 03:34:00,EWL,cleared,,,14.0,JurongEast,JooKoon
+277,[EWL]UPDATE:Free regular bus are still available btw #Boon Lay & #JooKoon.,3:24 AM - 6 Dec 2016,2016-12-06 03:24:00,EWL,update,Boon,JooKoon,0,None,None
+278,[EWL]UPDATE:Free regular bus are still available btw #JurongEast & #JooKoon.,3:20 AM - 6 Dec 2016,2016-12-06 03:20:00,EWL,update,JurongEast,JooKoon,0,None,None
+279,[EWL] CLEARED: Train services between #BoonLay & #JooKoon have resumed. Pls add 10mins travel time btwn #JurongEast & #JooKoon.,3:10 AM - 6 Dec 2016,2016-12-06 03:10:00,EWL,cleared,,,10.0,BoonLay,JooKoon
+280,[EWL] UPDATE: No train service between #BoonLay & #JooKoon due to a signalling fault at #JooKoon.,3:00 AM - 6 Dec 2016,2016-12-06 03:00:00,EWL,update,BoonLay,JooKoon,0,None,None
+281,"[EWL]UPDATE:Track fault cleared, trains are progressively returning to normal speed from #TanahMerah to #Bugis towards #JooKoon",2:25 AM - 18 Nov 2016,2016-11-18 02:25:00,EWL,cleared,,,22.0,Tanah,Bugis
+282,"[EWL]UPDATE:Pls add 5 mins travel time from #TanahMerah towards #JooKoon,due to a track fault at #Lavender. Train svc is still available",2:17 AM - 18 Nov 2016,2016-11-18 02:17:00,EWL,update,TanahMerah,JooKoon,0,None,None
+283,"[EWL]: Due to a track fault, pls add 10 mins travel time from #Tanah Merah to #Bugis towards #Joo Koon. Train service is still available.",2:03 AM - 18 Nov 2016,2016-11-18 02:03:00,EWL,update,Tanah,Bugis,0,None,None
+284,[EWL] CLEARED:Free regular bus services between #Queenstown and #OutramPark have ceased.,4:02 AM - 2 Nov 2016,2016-11-02 04:02:00,EWL,cleared,,,0.0,,
+285,"[EWL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Free regular bus services are still available.",3:24 AM - 2 Nov 2016,2016-11-02 03:24:00,EWL,cleared,,,0.0,,
+286,[EWL] CLEARED: Train services from #Queenstown towards #OutramPark have resumed. Train are progressively return to normal speed.,3:20 AM - 2 Nov 2016,2016-11-02 03:20:00,EWL,cleared,,,32.00000000000001,Queenstown,Outram
+287,[EWL]UPDATE: No train service from #Queenstown to #Outram Park towards PasirRis.Free regular bus still available.,3:12 AM - 2 Nov 2016,2016-11-02 03:12:00,EWL,update,Queenstown,Outram,0,None,None
+288,[EWL] UPDATE: Free regular bus services are available between #Queenstown and  #OutramPark.,2:52 AM - 2 Nov 2016,2016-11-02 02:52:00,EWL,update,Queenstown,OutramPark,0,None,None
+289,"[EWL]No train service from #Queenstown to #Outram Park towards PasirRis,due to a train fault at #TiongBharu.Est resumption time: 18:10hrs.",2:48 AM - 2 Nov 2016,2016-11-02 02:48:00,EWL,update,Queenstown,Outram,0,None,None
+290,"[EWL] UPDATE: Fault cleared,Train service is running normally from #PasirRis to #JooKoon.",8:45 PM - 26 Oct 2016,2016-10-26 20:45:00,EWL,cleared,,,182.0,PasirRis,Bugis
+291,"[EWL]Update:Due to a track fault, pls add 5 mins travel time from #PasirRis to #Bugis towards #JooKoon. Train service is still available.",8:32 PM - 26 Oct 2016,2016-10-26 20:32:00,EWL,update,PasirRis,Bugis,0,None,None
+292,"[EWL]UPDATE:Due to a track fault near #Bugis, pls add 5 mins travel time from #PasirRis towards #JooKoon. Train svc is still available.",8:05 PM - 26 Oct 2016,2016-10-26 20:05:00,EWL,update,PasirRis,JooKoon,0,None,None
+293,"[EWL]UPDATE:Due to a track fault near #Bugis, pls add 10 mins travel time from #PasirRis towards #JooKoon. Train svc is still available.",7:48 PM - 26 Oct 2016,2016-10-26 19:48:00,EWL,update,PasirRis,JooKoon,0,None,None
+294,"[EWL]Update:Due to a track fault, pls add 15 mins travel time from #PasirRis to #Bugis towards #JooKoon. Train service is still available.",7:26 PM - 26 Oct 2016,2016-10-26 19:26:00,EWL,update,PasirRis,Bugis,0,None,None
+295,"[EWL]Update:Due to a track fault, pls add 25 mins travel time from #PasirRis to #Bugis towards #JooKoon. Train service is still available.",7:02 PM - 26 Oct 2016,2016-10-26 19:02:00,EWL,update,PasirRis,Bugis,0,None,None
+296,"[EWL]UPDATE:Pls add 25 mins travel time from #PasirRis towards #JooKoon,due to a track fault at #Bugis. Train svc is still available",6:22 PM - 26 Oct 2016,2016-10-26 18:22:00,EWL,update,PasirRis,JooKoon,0,None,None
+297,"[EWL]UPDATE:Pls add 20 mins travel time from #PasirRis towards #JooKoon,due to a track fault at #Bugis. Train svc is still available",6:05 PM - 26 Oct 2016,2016-10-26 18:05:00,EWL,update,PasirRis,JooKoon,0,None,None
+298,"[EWL]: Due to a track fault, pls add 15 mins travel time from #PasirRis to #Bugis towards #JooKoon. Train service is still available.",5:43 PM - 26 Oct 2016,2016-10-26 17:43:00,EWL,update,PasirRis,Bugis,0,None,None
+299,[EWL] CLEARED: Free regular bus services have ceased.,5:43 PM - 20 Oct 2016,2016-10-20 17:43:00,EWL,cleared,,,0.0,,
+300,[EWL] CLEARED: Train services from #Queenstown to #JurongEast have resumed. Free regular bus services is still available.,5:23 PM - 20 Oct 2016,2016-10-20 17:23:00,EWL,cleared,,,37.0,Queenstown,JurongEast
+301,[EWL] UPDATE: Free regular bus services are still available between #Queenstown and #JurongEast.,4:46 PM - 20 Oct 2016,2016-10-20 16:46:00,EWL,update,Queenstown,JurongEast,0,None,None
+302,"[EWL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls cater 10mins travel time from #Queenstown to #JurongEast.",4:44 PM - 20 Oct 2016,2016-10-20 16:44:00,EWL,cleared,,,43.0,Queenstown,JurongEast
+303,"[EWL]: Due to an earlier train fault, pls cater 15 mins travel time from #Queenstown to #JurongEast towards #JooKoon.",4:31 PM - 20 Oct 2016,2016-10-20 16:31:00,EWL,update,Queenstown,JurongEast,0,None,None
+304,[EWL] UPDATE: Free regular bus services are available between #Queenstown and #JurongEast. Updated resumption time at 7:30am.,4:16 PM - 20 Oct 2016,2016-10-20 16:16:00,EWL,update,Queenstown,JurongEast,0,None,None
+305,"[EWL]: Due to a train fault, pls add 20 mins travel time from #Queenstown to #JurongEast towards #JooKoon. Train service is still available.",4:01 PM - 20 Oct 2016,2016-10-20 16:01:00,EWL,update,Queenstown,JurongEast,0,None,None
+306,[EWL] CLEARED: Normal train service has resumed from #TanahMerah to #Bugis.,6:03 AM - 18 Oct 2016,2016-10-18 06:03:00,EWL,cleared,,,115.0,TanahMerah,Bugis
+307,[EWL]UPDATE:Additional travel time has been reduced to 5mins from #TanahMerah to #Bugis. Train svc is still available.,5:38 AM - 18 Oct 2016,2016-10-18 05:38:00,EWL,update,TanahMerah,Bugis,0,None,None
+308,[EWL]UPDATE:Additional travel time remained at 10mins from #TanahMerah to #Bugis. Train svc is still available.,5:27 AM - 18 Oct 2016,2016-10-18 05:27:00,EWL,update,TanahMerah,Bugis,0,None,None
+309,[EWL]UPDATE:Additional travel time has been reduced to 10mins from #TanahMerah to #Bugis. Train svc is still available.,5:04 AM - 18 Oct 2016,2016-10-18 05:04:00,EWL,update,TanahMerah,Bugis,0,None,None
+310,"[EWL]Update:Due to track fault, pls add 20 mins travel time from #TanahMerah to #Bugis towards #JooKoon. Train service is still available.",4:27 AM - 18 Oct 2016,2016-10-18 04:27:00,EWL,update,TanahMerah,Bugis,0,None,None
+311,"[EWL]: Due to a track fault, pls add 10 mins travel time from #TanahMerah to #Bugis towards #JooKoon. Train service is still available.",4:08 AM - 18 Oct 2016,2016-10-18 04:08:00,EWL,update,TanahMerah,Bugis,0,None,None
+312,[EWL] CLEARED: Normal train services from #OutramPark to #Eunos towards #PasirRis has resumed.,7:21 PM - 5 Oct 2016,2016-10-05 19:21:00,EWL,cleared,,,50.0,Outram,Eunos
+313,[EWL] UPDATE: Pls cater 10 mins additional travel time from #OutramPark to #Eunos towards Pasir Ris. We are working to recover service.,7:09 PM - 5 Oct 2016,2016-10-05 19:09:00,EWL,update,OutramPark,Eunos,0,None,None
+314,[EWL] UPDATE: Pls cater 15 mins additional travel time from #OutramPark towards #Eunos due to a track fault.,6:41 PM - 5 Oct 2016,2016-10-05 18:41:00,EWL,update,OutramPark,Eunos,0,None,None
+315,[EWL]: Pls cater  10 mins additional travelling time from #Outram Park to #Eunos towards #PasirRis due to a track fault.,6:31 PM - 5 Oct 2016,2016-10-05 18:31:00,EWL,update,Outram,Eunos,0,None,None
+316,[EWL] CLEARED: Free regular bus service between #BoonLay & #JooKoon has ceased.,8:21 AM - 11 Aug 2016,2016-08-11 08:21:00,EWL,cleared,,,4.000000000000001,BoonLay,JooKoon
+317,"[EWL] UPDATE: Due to earlier track fault, pls expect additional 15 mins traveling time between #BoonLay & #JooKoon.",8:17 AM - 11 Aug 2016,2016-08-11 08:17:00,EWL,update,BoonLay,JooKoon,0,None,None
+318,[EWL] CLEARED: Train service from #BoonLay to #JooKoon resumed. Free regular bus is still available.,7:46 AM - 11 Aug 2016,2016-08-11 07:46:00,EWL,cleared,,,19.0,BoonLay,JooKoon
+319,[EWL] Update: No train service between #BoonLay and #JooKoon due to track fault. Free regular bus service is available.,7:34 AM - 11 Aug 2016,2016-08-11 07:34:00,EWL,update,BoonLay,JooKoon,0,None,None
+320,[EWL]: Estimate 20mins additional travelling time from #BoonLay to #JooKoon towards #JooKoon due to a track fault.,7:27 AM - 11 Aug 2016,2016-08-11 07:27:00,EWL,update,BoonLay,JooKoon,0,None,None
+321,[EWL] CLEARED: Free regular bus & free shuttle bus services have ceased.,7:20 PM - 1 Aug 2016,2016-08-01 19:20:00,EWL,cleared,,,0.0,,
+322,[EWL] CLEARED: Train service between #BoonLay and #JooKoon has resumed. Free regular bus & free shuttle bus services are available.,6:37 PM - 1 Aug 2016,2016-08-01 18:37:00,EWL,cleared,,,43.0,BoonLay,JooKoon
+323,[EWL] UPDATE: No train service between #BoonLay and #JooKoon due to a track fault. Expected resumption time: 9:30am.,6:22 PM - 1 Aug 2016,2016-08-01 18:22:00,EWL,update,BoonLay,JooKoon,0,None,None
+324,[EWL] UPDATE: Free regular bus & free shuttle bus services are available between #BoonLay and #JooKoon.,6:11 PM - 1 Aug 2016,2016-08-01 18:11:00,EWL,update,BoonLay,JooKoon,0,None,None
+325,[EWL] UPDATE: No train service between #BoonLay and #JooKoon due to a track fault.,5:54 PM - 1 Aug 2016,2016-08-01 17:54:00,EWL,update,BoonLay,JooKoon,0,None,None
+326,[EWL] CLEARED: Train services between #Bugis and #PasirRis have resumed.,3:12 AM - 31 Jul 2016,2016-07-31 03:12:00,EWL,cleared,,,0.0,,
+327,"[EWL] Update: Fault has been cleared. However, trains maybe travelling at a slower speed.",2:48 AM - 31 Jul 2016,2016-07-31 02:48:00,EWL,cleared,,,54.0,Bugis,PasirRis
+328,[EWL] UPDATE: Estimated 10 mins additional travelling time between #Bugis and #PasirRis. We are working to recover service.,2:37 AM - 31 Jul 2016,2016-07-31 02:37:00,EWL,update,Bugis,PasirRis,0,None,None
+329,[EWL]: Estimate 15mins additional travelling time between #Bugis and #PasirRis due to platform doors fault.,1:54 AM - 31 Jul 2016,2016-07-31 01:54:00,EWL,update,Bugis,PasirRis,0,None,None
+330,[EWL] Cleared: train service from Cityhall to JooKoon Westbound is running normally.,6:42 PM - 19 Jul 2016,2016-07-19 18:42:00,EWL,cleared,,,0.0,,
+331,[EWL] CLEARED: Free regular bus service between #JooKoon and #BoonLay has ceased.,1:53 AM - 2 May 2016,2016-05-02 01:53:00,EWL,cleared,,,16.000000000000004,JooKoon,BoonLay
+332,[EWL]: Free regular bus service is still available between #JooKoon and #BoonLay.,1:37 AM - 2 May 2016,2016-05-02 01:37:00,EWL,update,JooKoon,BoonLay,0,None,None
+333,[EWL] CLEARED: Train service has resumed between #JooKoon and #BoonLay.,1:33 AM - 2 May 2016,2016-05-02 01:33:00,EWL,cleared,,,49.0,JooKoon,BoonLay
+334,[EWL]: Free regular bus service is available between #JooKoon and #BoonLay.,12:48 AM - 2 May 2016,2016-05-02 00:48:00,EWL,update,JooKoon,BoonLay,0,None,None
+335,"[EWL]: Due to a train fault, there is no train service between #JooKoon and #BoonLay in both bounds. Expected resumption time will be 4.05pm",12:44 AM - 2 May 2016,2016-05-02 00:44:00,EWL,update,JooKoon,BoonLay,0,None,None
+336,[NSL] CLEARED: Train svcs from #AngMoKio to #RafflesPlace are running normally now.,6:17 PM - 18 Feb 2018,2018-02-18 18:17:00,NSL,cleared,,,108.0,AngMoKio,RafflesPlace
+337,"[NSL] UPDATE: Due to on going track improvement work, please add 10mins train travel time from #AngMoKio to #RafflesPlace.",6:01 PM - 18 Feb 2018,2018-02-18 18:01:00,NSL,update,AngMoKio,RafflesPlace,0,None,None
+338,"[NSL] : Due to on going track improvement work, please add 15mins train travel time from #AngMoKio to #RafflesPlace.",4:29 PM - 18 Feb 2018,2018-02-18 16:29:00,NSL,update,AngMoKio,RafflesPlace,0,None,None
+339,[NSL] CLEARED: Train svcs from #AngMoKio to #RafflesPlace are running normally now.,6:07 PM - 13 Feb 2018,2018-02-13 18:07:00,NSL,cleared,,,262.00000000000006,AngMoKio,RafflesPlace
+340,"[NSL Update]: Due to maintenance work, trains are travelling slower near #RafflesPlace. Please add 10mins additional train travel time from #AngMoKio to #Raffles Place before 10am on Wed, 14 Feb.",5:04 PM - 13 Feb 2018,2018-02-13 17:04:00,NSL,update,AngMoKio,Raffles,0,None,None
+341,"[NSL]: Due to maintenance work, south-bound trains are travelling slower near #RafflesPlace. Please add 20mins additional train travel time from #AngMoKio to #RafflesPlace before 10am on Wed, 14 Feb.",1:45 PM - 13 Feb 2018,2018-02-13 13:45:00,NSL,update,AngMoKio,RafflesPlace,0,None,None
+342,"[NSL] UPDATE: Fault cleared, train svcs from #AngMoKio to #RafflesPlace are running normally now.",6:38 PM - 6 Feb 2018,2018-02-06 18:38:00,NSL,cleared,,,34.00000000000001,AngMoKio,RafflesPlace
+343,"[NSL] UPDATE: Due to on going track improvement work, please add 5mins train travel time from #AngMoKio to #RafflesPlace.",6:04 PM - 6 Feb 2018,2018-02-06 18:04:00,NSL,update,AngMoKio,RafflesPlace,0,None,None
+344,"[NSL] UPDATE: Fault cleared, train svcs are progressively being restored. Pls add 10mins train travel time from #AngMoKio to #RafflesPlace",5:18 PM - 6 Feb 2018,2018-02-06 17:18:00,NSL,cleared,,,0.0,,
+345,"[NSL] UPDATE: Fault cleared, train svcs are progressively being restored. Pls add 10mins train travel time from #AngMoKio to #RafflesPlace.",4:46 PM - 6 Feb 2018,2018-02-06 16:46:00,NSL,cleared,,,32.00000000000001,AngMoKio,RafflesPlace
+346,"[NSL]: Due to a signalling fault, pls add 15mins train travel time from #AngMoKio to #RafflesPlace towards #MarinaSouthPier.",4:14 PM - 6 Feb 2018,2018-02-06 16:14:00,NSL,update,AngMoKio,RafflesPlace,0,None,None
+347,[NSL] CLEARED: Free regular bus svcs between #ChoaChuKang & #Woodlands has ceased. Train service on North South Line had progressively returning to normal.,7:42 AM - 25 Dec 2017,2017-12-25 07:42:00,NSL,cleared,,,59.0,Choa,Woodlandwill
+348,[NSL]UPDATE:Train services resumed. Pls expect add 20mins train travel time btwn  #ChoaChuKang and #Woodlands. Free regular bus services are still available between #ChoaChuKang and #Woodlands.,7:22 AM - 25 Dec 2017,2017-12-25 07:22:00,NSL,update,ChoaChuKang,Woodlands,0,None,None
+349,"[NSL]: Due to a signalling fault at Yew Tee station, train services btwn #ChoaChuKang and #Woodlands will be delay for about 30 mins. Free regular bus service is available between #Choa Chu Kang and #Woodlands.",6:53 AM - 25 Dec 2017,2017-12-25 06:53:00,NSL,update,ChoaChuKang,Woodlands,0,None,None
+350,"[NSL]: Due to a signalling fault at Yew Tee station, train services btwn #Choa Chu Kang and #Woodlandwill be delay for about 30 mins. Free regular bus service is available between #Choa Chu Kang and #Woodland.",6:43 AM - 25 Dec 2017,2017-12-25 06:43:00,NSL,update,Choa,Woodlandwill,0,None,None
+351,[NSL]: Train service on the NSL is running normally.,12:44 PM - 15 Nov 2017,2017-11-15 12:44:00,NSL,cleared,,,0.0,,
+352,[NSL] update: Train service on North South Line has running normally now.,6:18 AM - 15 Nov 2017,2017-11-15 06:18:00,NSL,cleared,,,105.0,Yishun,MarinaSouthPier
+353,"[NSL] UPDATE: Due to fewer trains serving the NSL tmr, pls add 40mins train travel time. Free bridging bus svcs from #Yishun to #MarinaSouthPier (one way) and free regular bus svcs between #Yishun and #MarinaSouthPier (both directions) are avail from the start of train service.",4:33 AM - 15 Nov 2017,2017-11-15 04:33:00,NSL,update,Yishun,MarinaSouthPier,0,None,None
+354,[NSL] UPDATE: Free regular bus and bridging bus services between #Bishan and #Yishun have ended.,4:19 AM - 15 Nov 2017,2017-11-15 04:19:00,NSL,cleared,,,194.0,Bishan,Yishun
+355,[NSL] UPDATE: Pls add 40 mins train travel time when commuting on the NSL. Free bridging bus services from #Bishan to #Yishun (one way) and free regular bus services btwn #Bishan and #Yishun (both directions) are still avail. Commuters are advised to take alternative train lines.,2:29 AM - 15 Nov 2017,2017-11-15 02:29:00,NSL,update,Bishan,Yishun,0,None,None
+356,[NSL] UPDATE: Pls add 25 mins train travel time when commuting on the NSL. Free bridging bus services from #Bishan to #Yishun (one way) and free regular bus services btwn #Bishan and #Yishun (both directions) are available. Pls seek alternative transport: http://bit.ly/2iz2Ezz .,1:45 AM - 15 Nov 2017,2017-11-15 01:45:00,NSL,update,Bishan,Yishun,0,None,None
+357,"[NSL]: Due to fewer trains serving the NSL this evening, please cater additional 15 minutes train travel time. Free bridging bus services from #Bishan to #Yishun (one way) and free regular bus services between #Bishan and #Yishun (both directions) are available.",1:05 AM - 15 Nov 2017,2017-11-15 01:05:00,NSL,update,Bishan,Yishun,0,None,None
+358,[NSL] CLEARED: Free regular bus svcs have ended.,2:32 PM - 9 Nov 2017,2017-11-09 14:32:00,NSL,cleared,,,0.0,,
+359,[NSL] CLEARED: Train svc from #Yishun to #AngMoKio have resumed. Free regular bus svcs is still available from #Yishun to #AngMoKio.,2:17 PM - 9 Nov 2017,2017-11-09 14:17:00,NSL,cleared,,,14.0,Yishun,AngMoKio
+360,[NSL] UPDATE: Free regular bus svcs from #Yishun to #AngMoKio. Our station staff will assist.,2:06 PM - 9 Nov 2017,2017-11-09 14:06:00,NSL,update,Yishun,AngMoKio,0,None,None
+361,"[NSL]:Due to a train fault, pls add 20mins train travel time from #Yishun to #AngMoKio. (Not linked to new signalling project).",2:03 PM - 9 Nov 2017,2017-11-09 14:03:00,NSL,update,Yishun,AngMoKio,0,None,None
+362,[NSL] CLEARED: Train svcs btwn #AngMoKio and #Bishan have resumed. Free regular bus svcs have ended.,4:07 PM - 26 Oct 2017,2017-10-26 16:07:00,NSL,cleared,,,0.0,,
+363,[NSL] Update: Train svcs btwn AngMoKio & Bishan have resumed. Free regular bus svcs is still available between AngMoKio & MarinaSouthPier.,3:34 PM - 26 Oct 2017,2017-10-26 15:34:00,NSL,cleared,,,38.0,AngMoKio,Bishan
+364,[NSL] UPDATE: Free regular bus svcs btwn #AngMoKio and #MarinaSouthPier.,3:14 PM - 26 Oct 2017,2017-10-26 15:14:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+365,[NSL] UPDATE: Free regular bus svcs btwn #Bishan and #MarinaSouthPier.,3:09 PM - 26 Oct 2017,2017-10-26 15:09:00,NSL,update,Bishan,MarinaSouthPier,0,None,None
+366,"[NSL]: Due to a track fault, pls add 20mins train travel time from #AngMoKio to #Bishan towards #MarinaSouthPier.",2:56 PM - 26 Oct 2017,2017-10-26 14:56:00,NSL,update,AngMoKio,Bishan,0,None,None
+367,[NSL] CLEARED: Train services from #Yishun to #ToaPayoh have resumed. Free bus and bridging bus services have ended.,7:13 PM - 24 Oct 2017,2017-10-24 19:13:00,NSL,cleared,,,313.0,Yishun,ToaPayoh
+368,[NSL] UPDATE: Please add 10mins train travel time from #Yishun to #ToaPayoh. Free bus & bridging bus services are available.,5:05 PM - 24 Oct 2017,2017-10-24 17:05:00,NSL,update,Yishun,ToaPayoh,0,None,None
+369,"[NSL] UPDATE: Due to a track fault, trains to city will travel slower btwn #AngMoKio & #Bishan. Free bus and bridging bus svcs are avail.",2:54 PM - 24 Oct 2017,2017-10-24 14:54:00,NSL,update,AngMoKio,Bishan,0,None,None
+370,"[NSL]: Due to a track fault, pls add 20mins train travel time from #Yishun to #ToaPayoh SouthBound. (Not linked to new signalling project).",2:00 PM - 24 Oct 2017,2017-10-24 14:00:00,NSL,update,Yishun,ToaPayoh,0,None,None
+371,[NSL] CLEARED: Free regular bus and bridging bus services have ended.,11:17 PM - 7 Oct 2017,2017-10-07 23:17:00,NSL,cleared,,,0.0,,
+372,[NSL] UPDATE: Train services in both directions btwn #AngMoKio & #Newton have resumed. Free bus & bridging bus svcs are still available.,10:52 PM - 7 Oct 2017,2017-10-07 22:52:00,NSL,cleared,,,517.0000000000001,AngMoKio,Newton
+373,[NSL] UPDATE: Our teams are working on cleaning and testing trackside equipment btwn #AngMoKio and #Newton before train services resume.,7:22 PM - 7 Oct 2017,2017-10-07 19:22:00,NSL,update,AngMoKio,Newton,0,None,None
+374,[NSL] UPDATE:Commuters travelling from the North towards town can take other train lines - CCL at #Bishan or transfer to EWL at #JurongEast.,6:26 PM - 7 Oct 2017,2017-10-07 18:26:00,NSL,update,Bishan,JurongEast,0,None,None
+375,[NSL] UPDATE: Free bus & bridging bus svcs are avail btwn #Newton & #Ang Mo Kio. Our staff at bus boarding points will assist you.,5:33 PM - 7 Oct 2017,2017-10-07 17:33:00,NSL,update,Newton,Ang,0,None,None
+376,[NSL] UPDATE: We are unable to resume train svcs btwn #Newton & #AngMoKio stations till further notice as works require more time.,5:32 PM - 7 Oct 2017,2017-10-07 17:32:00,NSL,update,Newton,AngMoKio,0,None,None
+377,[NSL] UPDATE: Train services from #JurongEast to #AngMoKio and #Newton to #MarinaSouthPier in both directions are available.,2:28 PM - 7 Oct 2017,2017-10-07 14:28:00,NSL,update,JurongEast,AngMoKio,0,None,None
+378,[NSL]:Train svcs btwn #AngMoKio and #Newton both directions are not avail. Free regular and bridging bus svcs along affected stns are avail.,2:17 PM - 7 Oct 2017,2017-10-07 14:17:00,NSL,update,AngMoKio,Newton,0,None,None
+379,[NSL]: Free regular bus & bridging bus svcs are available btwn #AngMoKio and #Newton. Bus guides available here: http://bit.ly/2rMan0V ,2:15 PM - 7 Oct 2017,2017-10-07 14:15:00,NSL,update,AngMoKio,Newton,0,None,None
+380,[NSL]: No train svc btwn #AngMoKio & #Newton due to flooding in tunnel. Pls seek alternative transport.,2:15 PM - 7 Oct 2017,2017-10-07 14:15:00,NSL,update,AngMoKio,Newton,0,None,None
+381,[NSL] UPDATE: Free regular & bridging bus svcs btwn #Orchard and #MarinaSouthPier have ended while btwn #AngMoKio and #Orchard are avail.,8:06 AM - 7 Oct 2017,2017-10-07 08:06:00,NSL,cleared,,,91.0,AngMoKio,MarinaSouthPier
+382,[NSL] UPDATE: Train svcs btwn #AngMoKio and #Newton in both directions are not avail till end of svc. We're working to resume svcs for Sun.,7:46 AM - 7 Oct 2017,2017-10-07 07:46:00,NSL,update,AngMoKio,Newton,0,None,None
+383,[NSL] UPDATE: Free regular bus & bridging bus svcs btwn #AngMoKio and #MarinaSouthPier are still avail. Bus guides: http://bit.ly/2rMan0V ,6:35 AM - 7 Oct 2017,2017-10-07 06:35:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+384,[NSL] UPDATE: Train svcs btwn #Newton & #MarinaSouthPier have resumed. There is no train svc btwn #AngMoKio & #Newton.,6:30 AM - 7 Oct 2017,2017-10-07 06:30:00,NSL,cleared,,,234.0,Bishan,ToaPayoh
+385,[NSL] UPDATE: Free regular bus & bridging bus svcs btwn #AngMoKio and #MarinaSouthPier. Bus guides available here: http://bit.ly/2rMan0V ,5:13 AM - 7 Oct 2017,2017-10-07 05:13:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+386,[NSL] UPDATE: No train svc btwn #AngMoKio & #MarinaSouthPier. Pls seek alternative transport or continue your journey via other MRT lines.,4:16 AM - 7 Oct 2017,2017-10-07 04:16:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+387,[NSL] UPDATE: Free regular bus & bridging bus svcs btwn #AngMoKio and #MarinaSouthPier. We are sorry and are working to recover service.,3:48 AM - 7 Oct 2017,2017-10-07 03:48:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+388,[NSL] UPDATE: No train svc btwn #AngMoKio and #MarinaSouthPier. Pls seek alternative transport. Bus guides here: http://bit.ly/2rMan0V ,3:25 AM - 7 Oct 2017,2017-10-07 03:25:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+389,[NSL] UPDATE: Free regular bus & free bridging bus svcs btwn #AngMoKio and #MarinaSouthPier.,3:06 AM - 7 Oct 2017,2017-10-07 03:06:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+390,[NSL] UPDATE: No train svc btwn #AngMoKio and #MarinaSouthPier. Pls consider alternative transport.,3:05 AM - 7 Oct 2017,2017-10-07 03:05:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+391,[NSL] UPDATE: Free regular bus & free bridging bus svcs btwn #AngMoKio and #ToaPayoh.,2:46 AM - 7 Oct 2017,2017-10-07 02:46:00,NSL,update,AngMoKio,ToaPayoh,0,None,None
+392,[NSL] UPDATE: No train svc btwn #AngMoKio and #ToaPayoh due to a track fault at #Bishan.,2:45 AM - 7 Oct 2017,2017-10-07 02:45:00,NSL,update,AngMoKio,ToaPayoh,0,None,None
+393,"[NSL] Due to a track fault, there is no train svc from #Bishan to #ToaPayoh towards #MarinaSouthPier. (Not linked to new signalling project)",2:36 AM - 7 Oct 2017,2017-10-07 02:36:00,NSL,update,Bishan,ToaPayoh,0,None,None
+394,[NSL] CLEARED: Train svcs btwn #ChoaChuKang  and #JurongEast have resumed.,3:24 AM - 4 Oct 2017,2017-10-04 03:24:00,NSL,cleared,,,23.0,ChoaChuKang,JurongEast
+395,"[NSL]: Due to an earlier train fault on the new signalling system, pls add 10 mins train travel time btwn #ChoaChuKang and #JurongEast.",3:12 AM - 4 Oct 2017,2017-10-04 03:12:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+396,"[NSL]: Due to a train fault on the new signalling system, pls add 20mins train travel time btwn #ChoaChuKang and #JurongEast.",3:01 AM - 4 Oct 2017,2017-10-04 03:01:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+397,[NSL] CLEARED: Train svcs btwn #MarinaSouthPier and #ToaPayoh have resumed. Free regular bus svcs have ended.,7:09 AM - 15 Sep 2017,2017-09-15 07:09:00,NSL,cleared,,,26.0,MarinaSouthPier,ToaPayoh
+398,[NSL] UPDATE: Free regular bus svcs btwn #MarinaSouthPier and #ToaPayoh is still available.,6:43 AM - 15 Sep 2017,2017-09-15 06:43:00,NSL,update,MarinaSouthPier,ToaPayoh,0,None,None
+399,[NSL]UPDATE: Fault Cleared.Train services are progressively being restored.,6:43 AM - 15 Sep 2017,2017-09-15 06:43:00,NSL,cleared,,,37.0,MarinaSouthPier,ToaPayoh
+400,[NSL] UPDATE: Free regular bus svcs btwn #MarinaSouthPier and #ToaPayoh.,6:08 AM - 15 Sep 2017,2017-09-15 06:08:00,NSL,update,MarinaSouthPier,ToaPayoh,0,None,None
+401,"[NSL]: Due to a signalling fault on the new signalling system, pls add 20mins train travel time btwn #MarinaSouthPier and #ToaPayoh.",6:06 AM - 15 Sep 2017,2017-09-15 06:06:00,NSL,update,MarinaSouthPier,ToaPayoh,0,None,None
+402,[NSL] CLEARED: Free regular bus svcs have ended.,4:29 AM - 31 Aug 2017,2017-08-31 04:29:00,NSL,cleared,,,0.0,,
+403,[NSL] CLEARED: Train services from #JurongEast to #Yishun have resumed. Free regular bus svcs is still available.,3:55 AM - 31 Aug 2017,2017-08-31 03:55:00,NSL,cleared,,,11615.0,YewTee,JurongEast
+404,[NSL] UPDATE: Pls add 15mins train travel time from #JurongEast to #Yishun. We are working to recover svc.,3:40 AM - 31 Aug 2017,2017-08-31 03:40:00,NSL,update,JurongEast,Yishun,0,None,None
+405,[NSL] UPDATE: Free regular bus service is available from #Woodlands to #Yishun.,3:26 AM - 31 Aug 2017,2017-08-31 03:26:00,NSL,update,Woodlands,Yishun,0,None,None
+406,"[NSL]: Due to a train fault, pls add 25mins train travel time from #JurongEast to #Yishun. (Not linked to new signalling project).",3:19 AM - 31 Aug 2017,2017-08-31 03:19:00,NSL,update,JurongEast,Yishun,0,None,None
+407,[NSL] UPDATE: Pls expect slightly longer train travel time between #YewTee and #JurongEast on the NSL this evening.,2:20 AM - 23 Aug 2017,2017-08-23 02:20:00,NSL,update,YewTee,JurongEast,0,None,None
+408,[NSL] CLEARED: Train svc from #Yewtee to #JurongEast is running normally now.,5:53 PM - 22 Aug 2017,2017-08-22 17:53:00,NSL,cleared,,,81.0,YewTee,JurongEast
+409,"[NSL]UPDATE: Due to a track fault, pls add 10mins train travel time from #YewTee to #JurongEast. (Not linked to new signalling project).",5:13 PM - 22 Aug 2017,2017-08-22 17:13:00,NSL,update,YewTee,JurongEast,0,None,None
+410,"[NSL]: Due to a track fault, pls add 15mins train travel time from #YewTee to #JurongEast. (Not linked to new signalling project).",4:32 PM - 22 Aug 2017,2017-08-22 16:32:00,NSL,update,YewTee,JurongEast,0,None,None
+411,[NSL] CLEARED: Train svcs btwn #MarinaSouthPier and #Sembawang have resumed. Free regular bus & free bridging bus svcs have ended.,6:22 PM - 17 Aug 2017,2017-08-17 18:22:00,NSL,cleared,,,173.0,sembawang,Marina
+412,[NSL]UPDATE:Pls add 15mins train travel time btwn #MarinaSouthPier and #Sembawang.Free regular bus & free bridging bus svcs are still avail.,6:07 PM - 17 Aug 2017,2017-08-17 18:07:00,NSL,update,MarinaSouthPier,Sembawang,0,None,None
+413,[NSL] UPDATE: Trains services are progressively being restored. Pls add 30mins train travel time btwn #MarinaSouthPier and #Sembawang.,5:22 PM - 17 Aug 2017,2017-08-17 17:22:00,NSL,update,MarinaSouthPier,Sembawang,0,None,None
+414,[NSL] UPDATE: Free regular bus service between #ChoaChuKang and #JurongEast.,4:35 PM - 17 Aug 2017,2017-08-17 16:35:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+415,"[NSL]UPDATE:Pls add 45mins train travel time between #MarinaSouthPier & #Sembawang,due to a signalling system fault.Train svc is available.",3:32 PM - 17 Aug 2017,2017-08-17 15:32:00,NSL,update,MarinaSouthPier,Sembawang,0,None,None
+416,[NSL] UPDATE: Free regular bus & free bridging bus services from #MarinaSouthPier towards #sembawang both bounds.,3:30 PM - 17 Aug 2017,2017-08-17 15:30:00,NSL,update,MarinaSouthPier,sembawang,0,None,None
+417,"[NSL]: Due to a New Signalling System fault near Ang Mo Kio, pls add 30mins travel time btwn #sembawang & #Marina South Pier.",3:29 PM - 17 Aug 2017,2017-08-17 15:29:00,NSL,update,sembawang,Marina,0,None,None
+418,[NSL]CLEARED: Train services btwn #MarinaSouthPier and #Yishun have resumed. Free regular bus and free bridging bus services have ended.,5:18 AM - 17 Aug 2017,2017-08-17 05:18:00,NSL,cleared,,,120.0,Yishun,Marina
+419,"[NSL]UPDATE:Pls add 15mins train travel time between #MarinaSouthPier & #Yishun,due to a new signalling system fault.Train svc is available.",4:57 AM - 17 Aug 2017,2017-08-17 04:57:00,NSL,update,MarinaSouthPier,Yishun,0,None,None
+420,[NSL] UPDATE: Free regular bus & free bridging bus services from #MarinaSouthPier towards #AngMoKio both bounds.,4:28 AM - 17 Aug 2017,2017-08-17 04:28:00,NSL,update,MarinaSouthPier,AngMoKio,0,None,None
+421,"[NSL]UPDATE:Pls add 40mins train travel time between #MarinaSouthPier & #Yishun,due to a new signalling system fault.Train svc is available.",4:00 AM - 17 Aug 2017,2017-08-17 04:00:00,NSL,update,MarinaSouthPier,Yishun,0,None,None
+422,"[NSL]UPDATE:Pls add 25mins travel time between #MarinaSouthPier & #Yishun,due to a signalling system fault.Train svc is available.",3:43 AM - 17 Aug 2017,2017-08-17 03:43:00,NSL,update,MarinaSouthPier,Yishun,0,None,None
+423,[NSL] UPDATE: Free regular bus services are available between #AngMoKio & #MarinaSouthPier.,3:29 AM - 17 Aug 2017,2017-08-17 03:29:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+424,"[NSL]: Due to a New Signalling System fault near Ang Mo Kio, pls add 20mins travel time btwn #Yishun & #Marina South Pier.",3:18 AM - 17 Aug 2017,2017-08-17 03:18:00,NSL,update,Yishun,Marina,0,None,None
+425,[NSL] CLEARED: Train service and bridging bus services have ended. Our engineers will continue to work and rectify the fault.,10:20 AM - 12 Jul 2017,2017-07-12 10:20:00,NSL,cleared,,,78.0,JurongEast,Kranji
+426,[NSL] UPDATE: No train service between #JurongEast & #ChoaChuKang due to a power fault. Free bus bridging services are available.,9:30 AM - 12 Jul 2017,2017-07-12 09:30:00,NSL,update,JurongEast,ChoaChuKang,0,None,None
+427,"[NSL] UPDATE: Free regular bus services are available between #JurongEast & #Woodlands, #tuaslink & #Queenstown.",9:06 AM - 12 Jul 2017,2017-07-12 09:06:00,NSL,update,JurongEast,Woodlands,0,None,None
+428,"[NSL] No train service between #JurongEast & #Kranji, #Queenstown & #tuaslink due to a power fault. Est resumption time: 00:30am.",9:02 AM - 12 Jul 2017,2017-07-12 09:02:00,NSL,update,JurongEast,Kranji,0,None,None
+429,[NSL] CLEARED: Train services between #Woodlands & #JurongEast have resumed. We have stopped the free regular bus services.,6:13 PM - 6 Jul 2017,2017-07-06 18:13:00,NSL,cleared,,,42.0,Woodlands,JurongEast
+430,[NSL] UPDATE: Pls cater 10mins additional travel time between #Woodlands & #JurongEast. We are working to recover service.,5:56 PM - 6 Jul 2017,2017-07-06 17:56:00,NSL,update,Woodlands,JurongEast,0,None,None
+431,[NSL] UPDATE: Free regular bus services are available between #ChoaChuKang & #JurongEast.,5:34 PM - 6 Jul 2017,2017-07-06 17:34:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+432,"[NSL]: Due to a train fault, pls add 30mins additional travel time between #Woodlands & #JurongEast. Train service is available.",5:31 PM - 6 Jul 2017,2017-07-06 17:31:00,NSL,update,Woodlands,JurongEast,0,None,None
+433,"[NSL]CLEARED: Track point fault cleared, train service from #Woodlands to #AngMoKio is running normally.",5:48 PM - 29 Jun 2017,2017-06-29 17:48:00,NSL,cleared,,,136.00000000000003,Woodlands,AngMoKio
+434,"[NSL]UPDATE:Pls add 10mins travel time from #Woodlands to #AngMoKio, due to a track point fault at #AngMoKio. Train svc is still available.",5:30 PM - 29 Jun 2017,2017-06-29 17:30:00,NSL,update,Woodlands,AngMoKio,0,None,None
+435,"[NSL]UPDATE: Pls add 10mins travel time from #Woodlands to #AngMoKio,due to a track point fault at #AngMoKio. Train svc is still available.",5:13 PM - 29 Jun 2017,2017-06-29 17:13:00,NSL,update,Woodlands,AngMoKio,0,None,None
+436,"[NSL]UPDATE: Pls add 10mins travel time from #Woodlands to #AngMoKio, due to a track point fault at #AngMoKio. Train svc is still available.",4:57 PM - 29 Jun 2017,2017-06-29 16:57:00,NSL,update,Woodlands,AngMoKio,0,None,None
+437,"[NSL]UPDATE: Pls add 15mins travel time from #Woodlands to #AngMoKio, due to a track point fault at #AngMoKio. Train svc is still available.",4:42 PM - 29 Jun 2017,2017-06-29 16:42:00,NSL,update,Woodlands,AngMoKio,0,None,None
+438,"[NSL]UPDATE: Pls add 15 mins travel time from #Woodlands to #AngMoKio,due to a track point fault at #AngMoKio. Train svc is still available.",4:22 PM - 29 Jun 2017,2017-06-29 16:22:00,NSL,update,Woodlands,AngMoKio,0,None,None
+439,"[NSL]UPDATE: Pls add 15mins travel time from #Woodlands to #AngMoKio,due to a track point fault at #AngMoKio. Train svc is still available.",4:00 PM - 29 Jun 2017,2017-06-29 16:00:00,NSL,update,Woodlands,AngMoKio,0,None,None
+440,"[NSL]: Due to a track point fault, pls add 10mins travel time from #Woodlands to #AngMoKio. Train service is still available.",3:32 PM - 29 Jun 2017,2017-06-29 15:32:00,NSL,update,Woodlands,AngMoKio,0,None,None
+441,[NSL] UPDATE: Train services on the #NSL have resumed. Free bus services have ceased.,4:33 AM - 28 Jun 2017,2017-06-28 04:33:00,NSL,cleared,,,0.0,,
+442,[NSL] Train services on the #NSL have resumed. Free bus services are still available.,4:17 AM - 28 Jun 2017,2017-06-28 04:17:00,NSL,cleared,,,45.0,JUR,MSP
+443,[NSL] UPDATE: Please add about 15 mins travel time on the #NSL. Train services between #JUR and #MSP are running both bounds.,3:32 AM - 28 Jun 2017,2017-06-28 03:32:00,NSL,update,JUR,MSP,0,None,None
+444,[NSL] UPDATE: Train services along #NSL are progressively returning to normal. Please cater for additional 15 mins travel time.,2:46 AM - 28 Jun 2017,2017-06-28 02:46:00,NSL,cleared,,,0.0,,
+445,[NSL] CLEARED: Free regular bus service between #ChoaChuKang and #JurongEast for both directions have ceased.,6:50 PM - 11 Jun 2017,2017-06-11 18:50:00,NSL,cleared,,,0.0,,
+446,[NSL]UPDATE: Trains are progressively returning to normal speed between #ChoaChuKang and #JurongEast.,6:47 PM - 11 Jun 2017,2017-06-11 18:47:00,NSL,cleared,,,37.0,ChoaChuKang,JurongEast
+447,[NSL] UPDATE: Free regular bus service is still available between #ChoaChuKang and #JurongEast stations for both directions.,6:35 PM - 11 Jun 2017,2017-06-11 18:35:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+448,[NSL]UPDATE: Pls expect 10mins travel time btw #ChoaChuKang & #JurongEast due to signalling system fault. Train service is still available.,6:34 PM - 11 Jun 2017,2017-06-11 18:34:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+449,[NSL] UPDATE: Free regular bus service is available between #ChoaChuKang and #JurongEast station.,6:13 PM - 11 Jun 2017,2017-06-11 18:13:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+450,"[NSL]: Due to signalling system fault, pls add 20mins travelling time btw #ChoaChuKang & #JurongEast. Train service is still available.",6:10 PM - 11 Jun 2017,2017-06-11 18:10:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+451,[NSL] UPDATE: Free regular bus & free bridging bus services between #ChoaChuKang and #Yishun have ceased.,5:41 AM - 2 Jun 2017,2017-06-02 05:41:00,NSL,cleared,,,0.0,,
+452,[NSL] UPDATE: Train svcs have resumed. Free regular bus & free bridging bus services are still available between #ChoaChuKang and #Yishun.,5:27 AM - 2 Jun 2017,2017-06-02 05:27:00,NSL,cleared,,,14.0,ChoaChuKang,Yishun
+453,[NSL] UPDATE: Free regular bus & free bridging bus services are still available between #ChoaChuKang and #Yishun.,5:13 AM - 2 Jun 2017,2017-06-02 05:13:00,NSL,update,ChoaChuKang,Yishun,0,None,None
+454,[NSL] UPDATE:Fault cleared.Train svcs are progressively returning to normal. Pls expect 10mins additional travel time btw #Yishun & #YewTee.,4:56 AM - 2 Jun 2017,2017-06-02 04:56:00,NSL,cleared,,,171.0,MarinaSouthPier,JurongEast
+455,"[NSL] UPDATE: Due to signalling fault, please add 30mins travel time between #Yishun and #YewTee both bounds.",4:43 AM - 2 Jun 2017,2017-06-02 04:43:00,NSL,update,Yishun,YewTee,0,None,None
+456,[NSL] UPDATE: Free regular bus and free bridging bus services are still available between #ChoaChuKang and #Yishun.,4:24 AM - 2 Jun 2017,2017-06-02 04:24:00,NSL,update,ChoaChuKang,Yishun,0,None,None
+457,"[NSL] UPDATE: Due to a signalling fault, trains btwn #Yishun & #YewTee are travelling at a slower speed. Pls seek alternative transport.",4:06 AM - 2 Jun 2017,2017-06-02 04:06:00,NSL,update,Yishun,YewTee,0,None,None
+458,"[NSL] UPDATE: Due to signalling fault, pls add 30mins travel time btw #YewTee & #Yishun both bounds. Trains are travelling at slower speed.",3:53 AM - 2 Jun 2017,2017-06-02 03:53:00,NSL,update,YewTee,Yishun,0,None,None
+459,"[NSL] Due to signalling fault btw #YewTee & #Yishun both bounds, pax are advised to take alt transport or other train lines. We are sorry.",3:17 AM - 2 Jun 2017,2017-06-02 03:17:00,NSL,update,YewTee,Yishun,0,None,None
+460,[NSL] UPDATE: Free regular bus & free bridging bus services are available between #ChoaChuKang & #Yishun.,3:11 AM - 2 Jun 2017,2017-06-02 03:11:00,NSL,update,ChoaChuKang,Yishun,0,None,None
+461,"[NSL]UPDATE:Due to signalling fault,pls add 30mins travel time between #YewTee & #Yishun both bounds.Trains are travelling at slower speed.",2:53 AM - 2 Jun 2017,2017-06-02 02:53:00,NSL,update,YewTee,Yishun,0,None,None
+462,[NSL] UPDATE: Free regular bus & free bridging bus services are available between #ChoaChuKang and #Yishun.,2:17 AM - 2 Jun 2017,2017-06-02 02:17:00,NSL,update,ChoaChuKang,Yishun,0,None,None
+463,"[NSL] Due to new signalling system checks, pls add 30mins travel time between #YewTee and #Yishun both bounds. We are sorry.",2:15 AM - 2 Jun 2017,2017-06-02 02:15:00,NSL,update,YewTee,Yishun,0,None,None
+464,[NSL] UPDATE: Free regular bus & free bridging bus services are available between #YewTee and #Yishun.,2:09 AM - 2 Jun 2017,2017-06-02 02:09:00,NSL,update,YewTee,Yishun,0,None,None
+465,"[NSL] Due to new signalling system checks, pls add 15mins travel time between #MarinaSouthPier & #JurongEast both bounds. We are sorry.",2:05 AM - 2 Jun 2017,2017-06-02 02:05:00,NSL,update,MarinaSouthPier,JurongEast,0,None,None
+466,[NSL] UPDATE: Train services are returning to normal. Free regular bus services have ceased.,4:41 AM - 1 Jun 2017,2017-06-01 04:41:00,NSL,cleared,,,0.0,,
+467,[NSL]UPDATE:Trains are progressively returning to normal speed.Pls expect 15mins additional travel time btwn #MarinaSouthPier & #JurongEast.,4:17 AM - 1 Jun 2017,2017-06-01 04:17:00,NSL,cleared,,,30.0,MarinaSouthPier,JurongEast
+468,"[NSL] UPDATE: Free regular bus services are available between #JurongEast and #ChoaChuKang, also #CityHall and #AngMoKio.",3:59 AM - 1 Jun 2017,2017-06-01 03:59:00,NSL,update,JurongEast,ChoaChuKang,0,None,None
+469,"[NSL] Due to new signalling system checks, pls add 20mins travel time between #MarinaSouthPier & #JurongEast both bounds. We are sorry.",3:47 AM - 1 Jun 2017,2017-06-01 03:47:00,NSL,update,MarinaSouthPier,JurongEast,0,None,None
+470,[NSL] CLEARED: Train services between #ChoaChuKang & #JurongEast is running normally now. Free regular bus services have ceased.,3:28 AM - 29 May 2017,2017-05-29 03:28:00,NSL,cleared,,,0.0,,
+471,"[NSL]UPDATE:Train signalling fault has cleared, trains are progressively returning to normal speed. Free bus service is still available.",3:19 AM - 29 May 2017,2017-05-29 03:19:00,NSL,cleared,,,15.0,ChoaChuKang,JurongEast
+472,[NSL] UPDATE: Free regular bus service is available between #ChoaChuKang & #JurongEast.,3:05 AM - 29 May 2017,2017-05-29 03:05:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+473,"[NSL]: Due to a train signalling fault, pls add 20mins travelling time between #ChoaChuKang & #JurongEast.",3:04 AM - 29 May 2017,2017-05-29 03:04:00,NSL,update,ChoaChuKang,JurongEast,0,None,None
+474,[NSL]Update: Free bus service between #MarinaBay & #MarinaSouthPier has ceased.,1:09 AM - 28 May 2017,2017-05-28 01:09:00,NSL,cleared,,,0.0,,
+475,[NSL]Update: Train service between #MarinaBay & #MarinaSouthPier has resumed. Free regular bus service is still available between both stns.,1:00 AM - 28 May 2017,2017-05-28 01:00:00,NSL,cleared,,,64.00000000000001,Marinabay,MarinaSouthPier
+476,"[NSL]Update: Due to a signalling fault, free regular bus service is available between #Marinabay & #MarinaSouthPier.",12:43 AM - 28 May 2017,2017-05-28 00:43:00,NSL,update,Marinabay,MarinaSouthPier,0,None,None
+477,"[NSL]Update: Due to a signalling fault, free regular bus service is still available between #Marinabay & #MarinaSouthPier.",12:24 AM - 28 May 2017,2017-05-28 00:24:00,NSL,update,Marinabay,MarinaSouthPier,0,None,None
+478,[NSL]UPDATE:Free regular bus service is available between #Marinabay & #MarinaSouthPier.,12:00 AM - 28 May 2017,2017-05-28 00:00:00,NSL,update,Marinabay,MarinaSouthPier,0,None,None
+479,"[NSL]: Due to a signalling fault, there is no train service between #Marinabay & #MarinaSouthPier.",11:56 PM - 27 May 2017,2017-05-27 23:56:00,NSL,update,Marinabay,MarinaSouthPier,0,None,None
+480,[NSL] CLEARED: Train services between #AngMoKio & #MarinaSouthPier have normalized. Free regular bus services have ceased.,5:11 PM - 3 May 2017,2017-05-03 17:11:00,NSL,cleared,,,0.0,,
+481,"[NSL]UPDATE:Train signalling fault cleared, trains are progressively returning to normal speed. Free regular bus service still available.",5:02 PM - 3 May 2017,2017-05-03 17:02:00,NSL,cleared,,,17.000000000000004,AngMoKio,MarinaSouthPier
+482,[NSL]UPDATE: Pls add 10min travel time from #AngMoKio to #MarinaSouthPier due to a train signalling fault. Train service is still available.,4:56 PM - 3 May 2017,2017-05-03 16:56:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+483,[NSL]UPDATE: Free regular bus service is available between #Newton and #MarinaSouthPier. Train service is still available.,4:49 PM - 3 May 2017,2017-05-03 16:49:00,NSL,update,Newton,MarinaSouthPier,0,None,None
+484,"[NSL]: Due to a train signalling fault, pls add 25min travel time from #AngMoKio to #MarinaSouthPier. Train service is still available.",4:45 PM - 3 May 2017,2017-05-03 16:45:00,NSL,update,AngMoKio,MarinaSouthPier,0,None,None
+485,[NSL] CLEARED: Train services between #Yishun & #Bishan have resumed. Free regular bus services have ceased.,3:15 PM - 20 Apr 2017,2017-04-20 15:15:00,NSL,cleared,,,0.0,,
+486,[NSL] UPDATE: Train services between #Yishun & #Bishan have resumed. Free regular bus svc still available between Yishun & Bishan.,2:58 PM - 20 Apr 2017,2017-04-20 14:58:00,NSL,cleared,,,51.0,Yishun,Bishan
+487,"[NSL] UPDATE: No train service between #Yishun & #Bishan,due to a train fault at #Khatib.Est resumption time extended to 06.00am.",2:54 PM - 20 Apr 2017,2017-04-20 14:54:00,NSL,update,Yishun,Bishan,0,None,None
+488,"[NSL] UPDATE: No train service between #Yishun & #Bishan,due to a train fault at #Khatib.Est resumption time: 5:50am.",2:40 PM - 20 Apr 2017,2017-04-20 14:40:00,NSL,update,Yishun,Bishan,0,None,None
+489,"[NSL]:No train svc between #Yishun & #Bishan,due to a train fault at #Khatib.Free regular bus svc is available between Yishun & Bishan.",2:07 PM - 20 Apr 2017,2017-04-20 14:07:00,NSL,update,Yishun,Bishan,0,None,None
+490,[NSL] CLEARED: Train services from #Bishan to #Khatib towards #JurongEast have resumed.,9:41 PM - 17 Apr 2017,2017-04-17 21:41:00,NSL,cleared,,,322.0,Bishan,Khatib
+491,"[NSL]UPDATE: Please add 5mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",9:19 PM - 17 Apr 2017,2017-04-17 21:19:00,NSL,update,Bishan,Khatib,0,None,None
+492,[NSL] UPDATE:  Pls cater 5 mins additional travel time from #Bishan to #Khatib.  We are working to recover service.,8:59 PM - 17 Apr 2017,2017-04-17 20:59:00,NSL,update,Bishan,Khatib,0,None,None
+493,"[NSL]UPDATE:Pls add 5mins travel time from #Bishan to #Khatib,due to a track fault at #Khatib. Train svc is still available",8:38 PM - 17 Apr 2017,2017-04-17 20:38:00,NSL,update,Bishan,Khatib,0,None,None
+494,[NSL] UPDATE: Pls cater 5 mins additional travel time from #Bishan to #Khatib. We are working  to recover service.,8:19 PM - 17 Apr 2017,2017-04-17 20:19:00,NSL,update,Bishan,Khatib,0,None,None
+495,"[NSL]UPDATE: Pls add 5 mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",8:00 PM - 17 Apr 2017,2017-04-17 20:00:00,NSL,update,Bishan,Khatib,0,None,None
+496,[NSL] UPDATE: Pls cater 5 mins additional travel time from #Bishan to #Khatib. We are working to recover service.,7:38 PM - 17 Apr 2017,2017-04-17 19:38:00,NSL,update,Bishan,Khatib,0,None,None
+497,[NSL] UPDATE: Pls cater 10mins additional travel time from #Bishan to #Khatib. We are working to recover service.,7:22 PM - 17 Apr 2017,2017-04-17 19:22:00,NSL,update,Bishan,Khatib,0,None,None
+498,"[NSL]UPDATE: Pls add 20mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",7:02 PM - 17 Apr 2017,2017-04-17 19:02:00,NSL,update,Bishan,Khatib,0,None,None
+499,[NSL] UPDATE:  Pls cater 20 mins additional travel time from #Bishan to #Khatib. We are working to recover service.,6:42 PM - 17 Apr 2017,2017-04-17 18:42:00,NSL,update,Bishan,Khatib,0,None,None
+500,"[NSL]UPDATE:Pls add 20mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available",6:23 PM - 17 Apr 2017,2017-04-17 18:23:00,NSL,update,Bishan,Khatib,0,None,None
+501,[NSL] UPDATE: Pls cater 20 mins additional travel time from #Bishan to #Khatib. We are working to recover service.,6:05 PM - 17 Apr 2017,2017-04-17 18:05:00,NSL,update,Bishan,Khatib,0,None,None
+502,"[NSL]UPDATE:Pls add 20mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",5:47 PM - 17 Apr 2017,2017-04-17 17:47:00,NSL,update,Bishan,Khatib,0,None,None
+503,[NSL] UPDATE: Pls cater 15 mins additional travel time from #Bishan to #Khatib.  We are working to recover service.,5:39 PM - 17 Apr 2017,2017-04-17 17:39:00,NSL,update,Bishan,Khatib,0,None,None
+504,"[NSL]UPDATE:Pls add 15mins travel time from #Bishan to #Khatib,due to a track fault at #Khatib. Train svc is still available",5:20 PM - 17 Apr 2017,2017-04-17 17:20:00,NSL,update,Bishan,Khatib,0,None,None
+505,[NSL] UPDATE: Pls cater 15 mins additional travel time from #Bishan to #Khatib. We are working to recover service.,5:01 PM - 17 Apr 2017,2017-04-17 17:01:00,NSL,update,Bishan,Khatib,0,None,None
+506,"[NSL]UPDATE:Pls add 15mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",4:42 PM - 17 Apr 2017,2017-04-17 16:42:00,NSL,update,Bishan,Khatib,0,None,None
+507,"[NSL]UPDATE:Pls add 10mins travel time from #Bishan to #Khatib, due to a track fault at #Khatib. Train svc is still available.",4:39 PM - 17 Apr 2017,2017-04-17 16:39:00,NSL,update,Bishan,Khatib,0,None,None
+508,"[NSL]: Due to a track fault, pls add 10mins travel time from #Bishan to #Khatib towards #JurongEast. Train service is still available.",4:19 PM - 17 Apr 2017,2017-04-17 16:19:00,NSL,update,Bishan,Khatib,0,None,None
+509,[NSL] CLEARED: Train services from #Yishun towards #Bishan have resumed. Free regular bus services have ceased.,9:37 PM - 2 Apr 2017,2017-04-02 21:37:00,NSL,cleared,,,0.0,,
+510,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed.",9:33 PM - 2 Apr 2017,2017-04-02 21:33:00,NSL,cleared,,,20.0,Yishun,Bishan
+511,[NSL] UPDATE: Free regular bus services are available from #Yishun towards #Bishan.,9:17 PM - 2 Apr 2017,2017-04-02 21:17:00,NSL,update,Yishun,Bishan,0,None,None
+512,"[NSL]: Due to a train fault, pls add 30mins travel time from #Yishun to #Bishan towards #MarinaSouthPier. Train service is still available.",9:13 PM - 2 Apr 2017,2017-04-02 21:13:00,NSL,update,Yishun,Bishan,0,None,None
+513,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed.",4:25 PM - 30 Mar 2017,2017-03-30 16:25:00,NSL,cleared,,,13.0,JurongEast,ChoaChuKang
+514,"[NSL]: Due to a train fault, pls add 10mins travel time from #JurongEast to #ChoaChuKang towards #MarinaSouthPier.",4:12 PM - 30 Mar 2017,2017-03-30 16:12:00,NSL,update,JurongEast,ChoaChuKang,0,None,None
+515,[NSL] CLEARED: Train services from #Bishan to #Sembawang have resumed.,7:33 AM - 28 Mar 2017,2017-03-28 07:33:00,NSL,cleared,,,0.0,,
+516,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls add 10mins travel time from #Bishan to #Sembawang.",7:22 AM - 28 Mar 2017,2017-03-28 07:22:00,NSL,cleared,,,98.0,Sembawang,JurongEast
+517,[NSL] UPDATE: Pls cater 15 mins additional travel time from #Bishan to #Sembawang. We are working to recover service.,6:58 AM - 28 Mar 2017,2017-03-28 06:58:00,NSL,update,Bishan,Sembawang,0,None,None
+518,[NSL]UPDATE:Due to a signalling fault at #Sembawang.Pls add 15mins travel time from #Bishan to #Sembawang.Train svc is still available.,6:40 AM - 28 Mar 2017,2017-03-28 06:40:00,NSL,update,Bishan,Sembawang,0,None,None
+519,[NSL] UPDATE: Pls cater 15 mins additional travel time from #Bishan towards #Sembawang. We are working to recover service.,6:21 AM - 28 Mar 2017,2017-03-28 06:21:00,NSL,update,Bishan,Sembawang,0,None,None
+520,"[NSL]UPDATE:Pls add 15mins travel time from #Bishan towards #Sembawang,due to a signalling fault at #Sembawang.Train svc is still available.",6:03 AM - 28 Mar 2017,2017-03-28 06:03:00,NSL,update,Bishan,Sembawang,0,None,None
+521,"[NSL]: Due to a signalling fault,pls add 15mins travel time from#Bishan to #Sembawang towards #JurongEast.Train service is still available.",5:44 AM - 28 Mar 2017,2017-03-28 05:44:00,NSL,update,Sembawang,JurongEast,0,None,None
+522,[NSL] CLEARED: Free regular bus service has ceased. We apologise for the inconvenience.,4:50 PM - 12 Feb 2017,2017-02-12 16:50:00,NSL,cleared,,,52.0,JurongEast,AngMoKio
+523,[NSL]UPDATE: Free regular bus is available between #Woodlands and #Yishun in both direction due to a train fault at #Admiralty,4:07 PM - 12 Feb 2017,2017-02-12 16:07:00,NSL,update,Woodlands,Yishun,0,None,None
+524,[NSL]: Pls add 20mins travelling time from #JurongEast to #AngMoKio towards #MarinaSouthPier due to a train fault.,3:58 PM - 12 Feb 2017,2017-02-12 15:58:00,NSL,update,JurongEast,AngMoKio,0,None,None
+525,[NSL] CLEARED: Train services from #Newton towards #MarinaSouthPier have resumed. Free regular bus services have ceased.,4:51 PM - 9 Feb 2017,2017-02-09 16:51:00,NSL,cleared,,,0.0,,
+526,[NSL] UPDATE: Fault cleared. Free regular bus services are still available between #Newton & #RafflesPlace.,4:30 PM - 9 Feb 2017,2017-02-09 16:30:00,NSL,cleared,,,0.0,,
+527,"[NSL]UPDATE:Fault cleared,trains are progressively returning to normal speed.",4:27 PM - 9 Feb 2017,2017-02-09 16:27:00,NSL,cleared,,,14.0,Newton,MarinaSouthPier
+528,[NSL] UPDATE: Free regular bus services are available between #Newton & #RafflesPlace.,4:21 PM - 9 Feb 2017,2017-02-09 16:21:00,NSL,update,Newton,RafflesPlace,0,None,None
+529,[NSL] UPDATE: Free regular bus services are available between #Newton & #MarinaSouthPier.,4:15 PM - 9 Feb 2017,2017-02-09 16:15:00,NSL,update,Newton,MarinaSouthPier,0,None,None
+530,[NSL] UPDATE: Free regular bus services are available from #Newton towards #MarinaSouthPier.,4:13 PM - 9 Feb 2017,2017-02-09 16:13:00,NSL,update,Newton,MarinaSouthPier,0,None,None
+531,"[NSL] CLEARED: Train service from #CityHall to #AngMoKio has resumed. For your safety, trains will travel slower from #Bishan to #AngMoKio.",7:08 AM - 13 Jan 2017,2017-01-13 07:08:00,NSL,cleared,,,0.0,,
+532,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls add 10mins travel time from #CityHall to #AngMoKio.",4:54 AM - 13 Jan 2017,2017-01-13 04:54:00,NSL,cleared,,,0.0,,
+533,"[NSL]UPDATE:Fault cleared, trains are progressively returning to normal speed. Pls add 15mins travel time from #CityHall to #AngMoKio.",4:39 AM - 13 Jan 2017,2017-01-13 04:39:00,NSL,cleared,,,10.0,CityHall,AngMoKio
+534,"[NSL]: Due to a track fault, pls add 15mins additional travel time between #CityHall & #AngMoKio. Train service is still available.",4:29 AM - 13 Jan 2017,2017-01-13 04:29:00,NSL,update,CityHall,AngMoKio,0,None,None
+535,[NSL] CLEARED: Train service between Woodland and Jurong East has resumed. Free regular bus service has ceased.,6:36 PM - 29 Aug 2016,2016-08-29 18:36:00,NSL,cleared,,,91.0,Woodland,Jurong
+536,[NSL] UPDATE: Free regular bus services are available between #Woodland and #Jurong East.,5:05 PM - 29 Aug 2016,2016-08-29 17:05:00,NSL,update,Woodland,Jurong,0,None,None
+537,"[NSL]:Fault cleared but trains & stations are still crowded.Due to congestion,estimate 20mins additional travel time between WDL & JUR.",4:50 PM - 29 Aug 2016,2016-08-29 16:50:00,NSL,cleared,,,0.0,,
+538,"[NSL]:Fault cleared but trains & stations are still crowded.Due to congestion,estimate 15mins additional travel time between WDL & JUR.",4:47 PM - 29 Aug 2016,2016-08-29 16:47:00,NSL,cleared,,,0.0,,
+539,[NSL] CLEARED :Train service between #YewTee and #BukitGombak has resumed. Free regular bus service is still available.,3:23 PM - 29 Aug 2016,2016-08-29 15:23:00,NSL,cleared,,,15.0,YewTee,BukitGombak
+540,[NSL]: No train service from #YewTee to #BukitGombak due to track fault until 6:15AM.Free bus service is available.,3:08 PM - 29 Aug 2016,2016-08-29 15:08:00,NSL,update,YewTee,BukitGombak,0,None,None
+541,"[NSL] CLEARED: Train service from #MarinaSouthPier to #Braddell, towards #JurongEast has resumed.",7:09 PM - 15 Aug 2016,2016-08-15 19:09:00,NSL,cleared,,,85.0,MarinaSouthPier,Braddell
+542,[NSL]Update: Estimate 5 mins additional travel time from #MarinaSouthPier to #Braddell towards #JurongEast due to earlier track fault.,6:57 PM - 15 Aug 2016,2016-08-15 18:57:00,NSL,update,MarinaSouthPier,Braddell,0,None,None
+543,[NSL]: Estimate 10 mins additional travel time from #MarinaSouthPier to #Braddell towards #JurongEast due to a track fault near Braddell.,5:44 PM - 15 Aug 2016,2016-08-15 17:44:00,NSL,update,MarinaSouthPier,Braddell,0,None,None
+544,[NSL] CLEARED: Train service from #Yishun to #Bishan is operating normally now.,9:13 PM - 5 Aug 2016,2016-08-05 21:13:00,NSL,cleared,,,0.0,,
+545,[NSL] CLEARED: Train service from #AngMoKio to #Admiralty on the NSL is running normally now.,10:47 PM - 1 Aug 2016,2016-08-01 22:47:00,NSL,cleared,,,22.0,AngMoKio,Admiralty
+546,[NSL]: Estimate 15mins additional travelling time from #AngMoKio to #Admiralty towards #JurongEast.,10:25 PM - 1 Aug 2016,2016-08-01 22:25:00,NSL,update,AngMoKio,Admiralty,0,None,None
+547,[NSL] CLEARED: Train service between #Yishun and #Woodlands on the NSL is running normally now.,7:35 PM - 1 Aug 2016,2016-08-01 19:35:00,NSL,cleared,,,0.0,,
+548,[NSL] CLEARED: Train service on the NSL has resumed. Additional 5mins travelling time from #Yishun to #Woodlands due to earlier fault.,6:57 PM - 1 Aug 2016,2016-08-01 18:57:00,NSL,cleared,,,0.0,,
+549,[NSL] CLEARED: Train service on the NSL has resumed. Additional 5mins travelling time between #Yishun and #Woodlands due to earlier fault.,6:29 PM - 1 Aug 2016,2016-08-01 18:29:00,NSL,cleared,,,0.0,,
+550,[NSL] CLEARED: Train service on the NSL has resumed. Additional 10mins travelling time between #Yishun and #Woodlands due to earlier fault.,6:19 PM - 1 Aug 2016,2016-08-01 18:19:00,NSL,cleared,,,21.0,Yishun,Woodlands
+551,[NSL]: Estimate 10 mins additional travelling time between #Yishun and #Woodlands due to a track fault.,5:58 PM - 1 Aug 2016,2016-08-01 17:58:00,NSL,update,Yishun,Woodlands,0,None,None
+552,[NSL] CLEARED: Free bus service between Marina Bay and Marina South Pier has ceased.,1:28 AM - 26 Jul 2016,2016-07-26 01:28:00,NSL,cleared,,,0.0,,
+553,[NSL] CLEARED: Train service between Marina Bay and Marina South Pier has resumed. Free buses are still available.,1:18 AM - 26 Jul 2016,2016-07-26 01:18:00,NSL,cleared,,,0.0,,
+554,[NSL] CLEARED: Train service between #MarinaBay and #MarinaSouthPier have resumed. Free regular bus service has ceased.,5:14 PM - 20 Jul 2016,2016-07-20 17:14:00,NSL,cleared,,,0.0,,
+555,[NSL] CLEARED: Train service between #MarinaBay and #MarinaSouthPier is running normally. Free regular buses are still available.,5:02 PM - 20 Jul 2016,2016-07-20 17:02:00,NSL,cleared,,,18.0,MarinaBay,MarinaSouthPier
+556,[NSL] UPDATE: No train service between #MarinaBay and #MarinaSouthPier due to a train fault. Expected resumption time: 8.05am.,4:55 PM - 20 Jul 2016,2016-07-20 16:55:00,NSL,update,MarinaBay,MarinaSouthPier,0,None,None
+557,[NSL] UPDATE: No train service between #MarinaBay and #MarinaSouthPier due to a train fault. Free regular buses are available.,4:51 PM - 20 Jul 2016,2016-07-20 16:51:00,NSL,update,MarinaBay,MarinaSouthPier,0,None,None
+558,[NSL]: No train service between #MarinaBay and #MarinaSouthPier due to a train fault.,4:44 PM - 20 Jul 2016,2016-07-20 16:44:00,NSL,update,MarinaBay,MarinaSouthPier,0,None,None
+559,[NSL] CLEARED: Normal train service from #Bishan to #Khatib towards #JurongEast has resumed.,9:07 PM - 12 Jul 2016,2016-07-12 21:07:00,NSL,cleared,,,30.0,Bishan,Khatib
+560,[NSL] UPDATE: Estimate 5 mins additional travel time from #Bishan to #Khatib towards Jurong East due to a track fault.,8:37 PM - 12 Jul 2016,2016-07-12 20:37:00,NSL,update,Bishan,Khatib,0,None,None
+561,[NSL] UPDATE: South Bound normal service resumed. Estimate 10 mins additional travel time from #Bishan to #Khatib towards Jurong East.,8:22 PM - 12 Jul 2016,2016-07-12 20:22:00,NSL,cleared,,,10.0,Bishan,Khatib
+562,[NSL] UPDATE: Estimate 10 mins additional travel time from #Bishan to #Khatib towards Jurong East. We are working to recover service.,8:12 PM - 12 Jul 2016,2016-07-12 20:12:00,NSL,update,Bishan,Khatib,0,None,None
+563,[NSL] CLEARED: Normal train service from #YioChuKang to #AngMoKio towards #MarinaBay has resumed.,7:49 AM - 29 Jun 2016,2016-06-29 07:49:00,NSL,cleared,,,90.0,Woodlands,AngMoKio
+564,[NSL]Update: Estimate 5 mins additional travelling time from #YioChuKang to #AngMoKio towards #MarinaBay due to a track fault.,7:27 AM - 29 Jun 2016,2016-06-29 07:27:00,NSL,update,YioChuKang,AngMoKio,0,None,None
+565,[NSL]Update: Estimate 10 mins additional travelling time from #Yishun to #AngMoKio towards #MarinaBay due to a track fault.,7:03 AM - 29 Jun 2016,2016-06-29 07:03:00,NSL,update,Yishun,AngMoKio,0,None,None
+566,[NSL]: Estimate 15 mins additional travelling time from #Woodlands to #AngMoKio towards #MarinaBay due to a track fault.,6:19 AM - 29 Jun 2016,2016-06-29 06:19:00,NSL,update,Woodlands,AngMoKio,0,None,None
+567,[NSL] CLEARED: Train services from #Woodlands towards #Sembawang have resumed. Free regular bus service have ceased.,2:01 AM - 23 Jun 2016,2016-06-23 02:01:00,NSL,cleared,,,0.0,,
+568,[NSL]UPDATE: Train service from Woodlands to Sembawang has resumed. Free regular bus from Woodlands to Sembawang is still available.,1:54 AM - 23 Jun 2016,2016-06-23 01:54:00,NSL,cleared,,,0.0,,
+569,[NSL]UPDATE:Train service from Woodlands to Sembawang has resumed. Trains are still traveling at a slower speed.,1:53 AM - 23 Jun 2016,2016-06-23 01:53:00,NSL,cleared,,,8.000000000000002,Woodlands,Sembawang
+570,[NSL] UPDATE: No train service from #Woodlands to #Sembawang. Check our bus guides at http://www.smrt.com.sg/Trains/Alternative-Travel-Options …,1:45 AM - 23 Jun 2016,2016-06-23 01:45:00,NSL,update,Woodlands,Sembawang,0,None,None
+571,[NSL] CLEARED: Train services from #Yishun towards #YioChuKang have resumed. Free regular bus and free shuttle bus service have ceased.,1:51 AM - 11 May 2016,2016-05-11 01:51:00,NSL,cleared,,,0.0,,
+572,[NSL] CLEARED: Train services from #Yishun towards #YioChuKang have resumed.,1:41 AM - 11 May 2016,2016-05-11 01:41:00,NSL,cleared,,,40.0,Yishun,Yio
+573,[NSL] UPDATE: No train service from #Yishun to #YioChuKang. We are working to recover service.,1:20 AM - 11 May 2016,2016-05-11 01:20:00,NSL,update,Yishun,YioChuKang,0,None,None
+574,[NSL] UPDATE: Free regular bus services are available from #Yishun to #YioChuKang.,1:09 AM - 11 May 2016,2016-05-11 01:09:00,NSL,update,Yishun,YioChuKang,0,None,None
+575,[NSL] : No train service from #Yishun to #Yio Chu Kang due to a train fault. Expected resumption time: 4:25pm.,1:01 AM - 11 May 2016,2016-05-11 01:01:00,NSL,update,Yishun,Yio,0,None,None
+576,[NSL] CLEARED: Train service from MarinaSouthPier to ToaPayoh has resumed. Trains may be traveling at a slower speed due to earlier fault.,3:03 AM - 3 May 2016,2016-05-03 03:03:00,NSL,cleared,,,0.0,,
+577,[NSL] CLEARED: Train services between Kranji and Woodlands are now running normally.Free regular bus & shuttle bus services have ceased.,4:29 PM - 25 Apr 2016,2016-04-25 16:29:00,NSL,cleared,,,0.0,,
+578,[NSL]Fault cleared but some trains & stations are still crowded due to congestion.,4:20 PM - 25 Apr 2016,2016-04-25 16:20:00,NSL,cleared,,,0.0,,
+579,[NSL]CLEARED: Free public & shuttle buses are still available at affected stations between #ChoaChuKang and #Woodlands station.,3:51 PM - 25 Apr 2016,2016-04-25 15:51:00,NSL,cleared,,,0.0,,
+580,[NSL] CLEARED: Train service from #Kranji to #Woodlands towards #MarinaBay has resumed.,3:49 PM - 25 Apr 2016,2016-04-25 15:49:00,NSL,cleared,,,0,None,None
+581,[NSL]UPDATE: Free public & shuttle buses are now available at affected stations between #ChoaChuKang and #Woodlands station.,3:40 PM - 25 Apr 2016,2016-04-25 15:40:00,NSL,update,ChoaChuKang,Woodlands,0,None,None
+582,[NSL]: No train service from #Kranji to #Woodlands towards MarinaBay. Please seek alternative transport.,3:31 PM - 25 Apr 2016,2016-04-25 15:31:00,NSL,update,Kranji,Woodlands,0,None,None
