@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on SMRT Tweets
+# Exploratory Data Analysis on service disruption based on tweets
 
 This demo will provide a brief introduction in performing a rudimentary analysis on train service disruptions in Singapore. Data scrapped are from the SMRT's twitter account and wikipedia containing the relevant train stations information such as name and code 
 
