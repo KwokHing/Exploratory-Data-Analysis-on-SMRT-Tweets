@@ -4448,13 +4448,6 @@ breakStn_df.groupby('Line').Stn.count().plot.bar()
 ```
 
 
-
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x10e373dd8>
-
-
-
-
 ![png](images/output_27_1.png)
 
 
