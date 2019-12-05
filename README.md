@@ -9,7 +9,9 @@ This demo will provide a brief introduction in performing a rudimentary analysis
 - loading of .shp (shape) files into Python
 - geospatial analysis on frequency of service disruptions using Folium & Leaflet
 
-There are two primary methods of extracting data from the SMRT tweets (twitter website). The first method was to use the provided twitter API for getting SMRT tweets, while the second method was to scrap information out from the HTML codes on the official SMRT twitter website (https://twitter.com/smrt_singapore). Due to limitation on the number of tweets the twitter's API could be pulled and an expected substantial number of SMRT tweets involved (approximately 4000 tweets), the latter method was employed to overcome twitter API's rate limitation 
+There are two primary methods of extracting data from the SMRT tweets (twitter website). The first method was to use the provided twitter API for getting SMRT tweets, while the second method was to scrap information out from the HTML codes on the official SMRT twitter website (https://twitter.com/smrt_singapore). Due to limitation on the number of tweets the twitter's API could be pulled and an expected substantial number of SMRT tweets involved (approximately 4000 tweets), the latter method was employed to overcome twitter API's rate limitation.
+
+This codes are submitted as a web scraping project for NTU's WKW H6752 - Data Extraction Techniques module.
 
 ![png](images/output_28.png)
 
@@ -18,6 +20,9 @@ Open `1_scrape_tweets.ipynb` and `2_geospatial_EDA_tweets.ipynb` on a jupyter no
 
 - `1_scrape_tweets.ipynb` shows the steps taken to scrape tweets from twitter using Selenium
 - `2_geospatial_EDA_tweets.ipynb`shows the steps taken to generate a heat map on the frequency of train breakdowns 
+
+## Improvements
+To perform scraping and generate SBS train breakdowns heat map as well.
 
 <!---
 # Exploratory Data Analysis on service disruption based on tweets
